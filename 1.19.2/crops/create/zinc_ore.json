@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "create:zinc_ingot"
+  },
+  "categories": [
+    "zinc"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "create:zinc_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "create:raw_zinc"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

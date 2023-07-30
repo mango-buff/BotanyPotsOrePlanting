@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gobber2:gobber2_glob"
+  },
+  "categories": [
+    "gobber2"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gobber2:gobber2_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gobber2:gobber2_glob"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
