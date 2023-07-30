@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "minecraft:quartz_block"
+  },
+  "display": {
+    "block": "minecraft:quartz_block"
+  },
+  "categories": [
+    "nether_quartz"
+  ],
+  "growthModifier": 1
+}

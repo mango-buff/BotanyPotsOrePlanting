@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "minecraft:copper_ingot"
+  },
+  "categories": [
+    "copper"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minecraft:copper_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:raw_copper"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

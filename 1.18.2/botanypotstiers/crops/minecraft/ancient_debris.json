@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "categories": [
+    "netherite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minecraft:ancient_debris"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:ancient_debris"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

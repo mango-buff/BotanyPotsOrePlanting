@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "minecraft:gold_ingot"
+  },
+  "categories": [
+    "gold"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minecraft:gold_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:raw_gold"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
