@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:elementium_block"
+  },
+  "display": {
+    "block": "botania:elementium_block"
+  },
+  "categories": [
+    "elementium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "minecraft:copper_block"
+  },
+  "display": {
+    "block": "minecraft:copper_block"
+  },
+  "categories": [
+    "copper"
+  ],
+  "growthModifier": 1
+}

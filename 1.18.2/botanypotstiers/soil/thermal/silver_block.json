@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "thermal:silver_block"
+  },
+  "display": {
+    "block": "thermal:silver_block"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthModifier": 1
+}

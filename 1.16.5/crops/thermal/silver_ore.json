@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:silver_ingot" 
+  },
+  "categories":["silver"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "thermal:silver_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "thermal:silver_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

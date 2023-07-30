@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pixelmon:silicon" 
+  },
+  "categories":["silicon"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "pixelmon:silicon_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "pixelmon:silicon_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

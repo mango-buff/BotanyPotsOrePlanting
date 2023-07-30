@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tconstruct:copper_block"
+  },
+  "display": {
+    "block": "tconstruct:copper_block"
+  },
+  "growthModifier": 0,
+  "categories": ["copper"]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:niter" 
+  },
+  "categories":["niter"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "thermal:niter_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "thermal:niter" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

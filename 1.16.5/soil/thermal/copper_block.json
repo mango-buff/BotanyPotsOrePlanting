@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:copper_block"
+  },
+  "display": {
+    "block": "thermal:copper_block"
+  },
+  "growthModifier": 0,
+  "categories": ["copper"]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_lead"
+  },
+  "display": {
+    "block": "mekanism:block_lead"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthModifier": 1
+}

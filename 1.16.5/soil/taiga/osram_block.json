@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:osram_block"
+  },
+  "display": {
+    "block": "taiga:osram_block"
+  },
+  "growthModifier": 0,
+  "categories": ["osram"]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:niter_block"
+  },
+  "display": {
+    "block": "thermal:niter_block"
+  },
+  "categories": [
+    "niter"
+  ],
+  "growthModifier": 1
+}

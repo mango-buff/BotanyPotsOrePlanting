@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "immersiveengineering:storage_nickel"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_nickel"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthModifier": 1
+}

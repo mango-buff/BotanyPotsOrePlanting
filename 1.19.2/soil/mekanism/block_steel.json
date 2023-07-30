@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_steel"
+  },
+  "display": {
+    "block": "mekanism:block_steel"
+  },
+  "categories": [
+    "steel"
+  ],
+  "growthModifier": 1
+}

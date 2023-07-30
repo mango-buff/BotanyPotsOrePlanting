@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "iceandfire:amythest_block"
+  },
+  "display": {
+    "block": "iceandfire:amythest_block"
+  },
+  "categories": [
+    "amythest"
+  ],
+  "growthModifier": 1
+}

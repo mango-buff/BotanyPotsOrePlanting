@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "draconicevolution:draconium_block"
+  },
+  "display": {
+    "block": "draconicevolution:draconium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["overworld_draconium"]
+}

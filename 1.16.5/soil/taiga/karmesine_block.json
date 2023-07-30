@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:karmesine_block"
+  },
+  "display": {
+    "block": "taiga:karmesine_block"
+  },
+  "growthModifier": 0,
+  "categories": ["karmesine"]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gobber2:gobber2_ingot_end"
+  },
+  "categories":["gobber2_end"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "gobber2:gobber2_ore_end"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "gobber2:gobber2_ore_end" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

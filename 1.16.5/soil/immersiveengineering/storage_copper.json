@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_copper"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_copper"
+  },
+  "growthModifier": 0,
+  "categories": ["copper"]
+}

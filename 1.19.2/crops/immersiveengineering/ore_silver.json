@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "immersiveengineering:ingot_silver"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "immersiveengineering:ore_silver"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "immersiveengineering:raw_silver"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

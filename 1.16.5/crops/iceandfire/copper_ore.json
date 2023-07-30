@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "iceandfire:copper_ingot"
+  },
+  "categories":["copper"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "iceandfire:copper_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "iceandfire:copper_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

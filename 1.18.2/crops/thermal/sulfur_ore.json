@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:sulfur"
+  },
+  "categories": [
+    "sulfur"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:sulfur_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:sulfur"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

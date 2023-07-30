@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pixelmon:silver_block"
+  },
+  "display": {
+    "block": "pixelmon:silver_block"
+  },
+  "growthModifier": 0,
+  "categories": ["silver"]
+}

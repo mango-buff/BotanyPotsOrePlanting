@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "immersiveengineering:ingot_aluminum"
+  },
+  "categories": [
+    "aluminum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "immersiveengineering:ore_aluminum"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "immersiveengineering:raw_aluminum"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

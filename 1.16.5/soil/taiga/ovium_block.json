@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:ovium_block"
+  },
+  "display": {
+    "block": "taiga:ovium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["ovium"]
+}

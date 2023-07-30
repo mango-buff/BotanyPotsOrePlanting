@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:karmesine_ingot" 
+  },
+  "categories":["karmesine"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:karmesine_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:karmesine_ore"
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

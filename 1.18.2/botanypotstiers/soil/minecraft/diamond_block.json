@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "minecraft:diamond_block"
+  },
+  "display": {
+    "block": "minecraft:diamond_block"
+  },
+  "categories": [
+    "diamond"
+  ],
+  "growthModifier": 1
+}

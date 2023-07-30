@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pixelmon:silicon_block"
+  },
+  "display": {
+    "block": "pixelmon:silicon_block"
+  },
+  "growthModifier": 0,
+  "categories": ["silicon"]
+}

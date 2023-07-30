@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:netherite_block"
+  },
+  "display": {
+    "block": "minecraft:netherite_block"
+  },
+  "growthModifier": 0,
+  "categories": ["netherite"]
+}

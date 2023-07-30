@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:quartz"
+  },
+  "categories":["nether_quartz"],
+  "growthTicks": 1200,
+  "growthModifier": 1.2,
+  "display": {
+    "block": "minecraft:nether_quartz_ore"
+    },
+  "results": [
+    {
+      "chance": 1,
+      "output": {
+        "item": "minecraft:quartz"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
