@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:diamond"
+  },
+  "categories": [
+    "diamond"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minecraft:diamond_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:diamond"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
