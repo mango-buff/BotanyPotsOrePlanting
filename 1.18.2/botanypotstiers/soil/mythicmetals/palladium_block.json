@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:palladium_block"
+  },
+  "display": {
+    "block": "mythicmetals:palladium_block"
+  },
+  "categories": [
+    "palladium"
+  ],
+  "growthModifier": 1
+}

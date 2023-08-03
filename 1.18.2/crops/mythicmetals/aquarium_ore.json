@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:aquarium_ingot"
+  },
+  "categories": [
+    "aquarium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:aquarium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_aquarium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

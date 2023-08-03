@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mythicmetals:midas_gold_ingot"
+  },
+  "categories": [
+    "midas_gold"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:midas_gold_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_midas_gold"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

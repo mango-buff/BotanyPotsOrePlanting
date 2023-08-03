@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:quadrillum_block"
+  },
+  "display": {
+    "block": "mythicmetals:quadrillum_block"
+  },
+  "categories": [
+    "quadrillum"
+  ],
+  "growthModifier": 1
+}

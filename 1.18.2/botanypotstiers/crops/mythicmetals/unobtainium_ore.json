@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mythicmetals:unobtainium"
+  },
+  "categories": [
+    "unobtainium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:unobtainium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:unobtainium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:banglum_block"
+  },
+  "display": {
+    "block": "mythicmetals:banglum_block"
+  },
+  "categories": [
+    "banglum"
+  ],
+  "growthModifier": 1
+}

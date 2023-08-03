@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:mythril_block"
+  },
+  "display": {
+    "block": "mythicmetals:mythril_block"
+  },
+  "categories": [
+    "mythril"
+  ],
+  "growthModifier": 1
+}

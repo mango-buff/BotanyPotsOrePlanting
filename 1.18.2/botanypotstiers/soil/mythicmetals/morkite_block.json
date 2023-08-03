@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:morkite_block"
+  },
+  "display": {
+    "block": "mythicmetals:morkite_block"
+  },
+  "categories": [
+    "morkite"
+  ],
+  "growthModifier": 1
+}

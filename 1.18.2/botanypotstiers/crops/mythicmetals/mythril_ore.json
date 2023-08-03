@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mythicmetals:mythril_ingot"
+  },
+  "categories": [
+    "mythril"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:mythril_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_mythril"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

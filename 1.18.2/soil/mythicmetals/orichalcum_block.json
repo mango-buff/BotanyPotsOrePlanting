@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:orichalcum_block"
+  },
+  "display": {
+    "block": "mythicmetals:orichalcum_block"
+  },
+  "categories": [
+    "orichalcum"
+  ],
+  "growthModifier": 1
+}

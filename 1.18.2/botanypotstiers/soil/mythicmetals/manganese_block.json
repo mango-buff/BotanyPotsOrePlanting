@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:manganese_block"
+  },
+  "display": {
+    "block": "mythicmetals:manganese_block"
+  },
+  "categories": [
+    "manganese"
+  ],
+  "growthModifier": 1
+}
