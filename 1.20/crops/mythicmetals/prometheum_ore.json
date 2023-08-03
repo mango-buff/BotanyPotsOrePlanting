@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:prometheum_ingot"
+  },
+  "categories": [
+    "prometheum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:prometheum_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_prometheum"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

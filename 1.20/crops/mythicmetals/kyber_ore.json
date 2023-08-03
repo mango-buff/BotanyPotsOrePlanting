@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:kyber_ingot"
+  },
+  "categories": [
+    "kyber"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:kyber_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_kyber"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

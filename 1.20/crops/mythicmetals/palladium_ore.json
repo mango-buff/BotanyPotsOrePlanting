@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:palladium_ingot"
+  },
+  "categories": [
+    "palladium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:palladium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_palladium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

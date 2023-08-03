@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:platinum_block"
+  },
+  "display": {
+    "block": "mythicmetals:platinum_block"
+  },
+  "categories": [
+    "platinum"
+  ],
+  "growthModifier": 1
+}
