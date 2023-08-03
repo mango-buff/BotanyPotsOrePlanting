@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:morkite"
+  },
+  "categories": [
+    "morkite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:morkite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:morkite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

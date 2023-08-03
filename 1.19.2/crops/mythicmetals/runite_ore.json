@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:runite_ingot"
+  },
+  "categories": [
+    "runite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:runite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_runite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
