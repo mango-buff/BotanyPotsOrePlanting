@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:sapphire"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alltheores:sapphire_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alltheores:sapphire"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

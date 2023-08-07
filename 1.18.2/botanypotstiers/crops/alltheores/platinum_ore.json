@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "alltheores:platinum_ingot"
+  },
+  "categories": [
+    "platinum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alltheores:platinum_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alltheores:raw_platinum"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

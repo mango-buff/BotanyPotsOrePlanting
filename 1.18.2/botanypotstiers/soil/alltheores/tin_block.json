@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "alltheores:tin_block"
+  },
+  "display": {
+    "block": "alltheores:tin_block"
+  },
+  "categories": [
+    "tin"
+  ],
+  "growthModifier": 1
+}
