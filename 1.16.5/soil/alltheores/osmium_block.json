@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:osmium_block"
+  },
+  "display": {
+    "block": "alltheores:osmium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["uranium"]
+}
