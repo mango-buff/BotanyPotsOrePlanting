@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:tin_ingot" 
+  },
+  "categories":["tin"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "alltheores:ore_tin"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "alltheores:ore_tin" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}
