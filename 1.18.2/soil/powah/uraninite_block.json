@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "powah:uraninite_block"
+  },
+  "display": {
+    "block": "powah:uraninite_block"
+  },
+  "categories": [
+    "uraninite"
+  ],
+  "growthModifier": 1
+}
