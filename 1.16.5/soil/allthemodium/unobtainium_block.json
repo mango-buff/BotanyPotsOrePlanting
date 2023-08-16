@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "allthemodium:unobtainium_block"
+  },
+  "display": {
+    "block": "allthemodium:unobtainium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["unobtainium"]
+}

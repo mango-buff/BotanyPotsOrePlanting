@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "allthemodium:allthemodium_block"
+  },
+  "display": {
+    "block": "allthemodium:allthemodium_block"
+  },
+  "categories": [
+    "allthemodium"
+  ],
+  "growthModifier": 1
+}

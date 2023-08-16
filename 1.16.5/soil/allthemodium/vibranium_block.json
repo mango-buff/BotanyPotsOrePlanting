@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "allthemodium:vibranium_block"
+  },
+  "display": {
+    "block": "allthemodium:vibranium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["vibranium"]
+}
