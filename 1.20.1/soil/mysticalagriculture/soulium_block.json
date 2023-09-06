@@ -1,0 +1,19 @@
+{
+    "bookshelf:load_conditions": [
+      {
+        "type": "bookshelf:item_exists",
+        "values": "mysticalagriculture:soulium_block"
+      }
+    ],
+      "type": "botanypots:soil",
+      "input": {
+        "item": "mysticalagriculture:soulium_block"
+      },
+      "display": {
+        "block": "mysticalagriculture:soulium_block"
+      },
+      "categories": [
+        "soulium_block"
+      ],
+      "growthModifier": 1
+    }
