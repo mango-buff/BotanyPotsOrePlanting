@@ -1,5 +1,5 @@
 {
-    "type": "botanypots:crop",
+    "type": "botanypotstiers:crop",
     "seed": {
       "item": "mysticalagriculture:prosperity_shard"
     },
@@ -8,7 +8,6 @@
     ],
     "growthTicks": 1200,
     "display": {
-      "type": "botanypots:aging",
       "block": "mysticalagriculture:prosperity_ore"
     },
     "drops": [
