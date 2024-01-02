@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "techreborn:iridium_ingot"
+  },
+  "categories": [
+    "iridium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "techreborn:iridium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "techreborn:raw_iridium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

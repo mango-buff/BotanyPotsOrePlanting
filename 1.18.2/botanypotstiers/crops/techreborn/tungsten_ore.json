@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "techreborn:tungsten_ingot"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "techreborn:tungsten_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "techreborn:raw_tungsten"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

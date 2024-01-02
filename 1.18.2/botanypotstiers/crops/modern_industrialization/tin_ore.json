@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "modern_industrialization:tin_ingot"
+  },
+  "categories": [
+    "tin"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "modern_industrialization:tin_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "modern_industrialization:raw_tin"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

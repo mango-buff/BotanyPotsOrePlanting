@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "modern_industrialization:salt_dust"
+  },
+  "categories": [
+    "salt"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "modern_industrialization:salt_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "modern_industrialization:salt_dust"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "techreborn:iridium_storage_block"
+  },
+  "display": {
+    "block": "techreborn:iridium_storage_block"
+  },
+  "categories": [
+    "iridium"
+  ],
+  "growthModifier": 1
+}

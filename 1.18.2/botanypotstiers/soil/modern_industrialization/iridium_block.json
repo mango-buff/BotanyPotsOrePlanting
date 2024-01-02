@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "modern_industrialization:iridium_block"
+  },
+  "display": {
+    "block": "modern_industrialization:iridium_block"
+  },
+  "categories": [
+    "iridium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:bauxite_block"
+  },
+  "display": {
+    "block": "modern_industrialization:bauxite_block"
+  },
+  "categories": [
+    "bauxite"
+  ],
+  "growthModifier": 1
+}

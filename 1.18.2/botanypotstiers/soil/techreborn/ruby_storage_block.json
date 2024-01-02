@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "techreborn:ruby_storage_block"
+  },
+  "display": {
+    "block": "techreborn:ruby_storage_block"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthModifier": 1
+}

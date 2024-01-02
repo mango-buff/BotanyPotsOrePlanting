@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:antimony_block"
+  },
+  "display": {
+    "block": "modern_industrialization:antimony_block"
+  },
+  "categories": [
+    "antimony"
+  ],
+  "growthModifier": 1
+}

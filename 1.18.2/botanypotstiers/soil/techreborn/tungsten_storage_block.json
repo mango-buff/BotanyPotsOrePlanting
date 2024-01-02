@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "techreborn:tungsten_storage_block"
+  },
+  "display": {
+    "block": "techreborn:tungsten_storage_block"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthModifier": 1
+}

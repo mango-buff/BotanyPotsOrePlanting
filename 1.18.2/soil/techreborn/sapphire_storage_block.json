@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "techreborn:sapphire_storage_block"
+  },
+  "display": {
+    "block": "techreborn:sapphire_storage_block"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthModifier": 1
+}

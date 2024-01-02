@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:lignite_coal_block"
+  },
+  "display": {
+    "block": "modern_industrialization:lignite_coal_block"
+  },
+  "categories": [
+    "lignite_coal"
+  ],
+  "growthModifier": 1
+}
