@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:lead_block"
+  },
+  "display": {
+    "block": "modern_industrialization:lead_block"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthModifier": 1
+}

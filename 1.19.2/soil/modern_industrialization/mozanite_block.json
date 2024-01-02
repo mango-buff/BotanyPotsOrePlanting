@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:mozanite_block"
+  },
+  "display": {
+    "block": "modern_industrialization:mozanite_block"
+  },
+  "categories": [
+    "mozanite"
+  ],
+  "growthModifier": 1
+}

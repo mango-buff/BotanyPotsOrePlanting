@@ -1,0 +1,24 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "techreborn:bauxite_dust"
+  },
+  "categories": [
+    "bauxite",
+    "aluminum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "techreborn:bauxite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "techreborn:bauxite_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

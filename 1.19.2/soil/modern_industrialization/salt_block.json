@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:salt_block"
+  },
+  "display": {
+    "block": "modern_industrialization:salt_block"
+  },
+  "categories": [
+    "salt"
+  ],
+  "growthModifier": 1
+}

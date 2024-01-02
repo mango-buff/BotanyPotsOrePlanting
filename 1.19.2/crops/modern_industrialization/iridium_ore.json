@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "modern_industrialization:iridium_ingot"
+  },
+  "categories": [
+    "iridium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "modern_industrialization:iridium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "modern_industrialization:raw_iridium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
