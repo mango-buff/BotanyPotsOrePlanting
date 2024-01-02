@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "modern_industrialization:nickel_ingot"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "modern_industrialization:nickel_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "modern_industrialization:raw_nickel"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

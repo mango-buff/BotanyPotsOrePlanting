@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:tungsten_block"
+  },
+  "display": {
+    "block": "modern_industrialization:tungsten_block"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthModifier": 1
+}
