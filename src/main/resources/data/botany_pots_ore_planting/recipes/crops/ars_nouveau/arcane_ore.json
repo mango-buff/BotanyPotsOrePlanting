@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ars_nouveau:mana_gem" 
+  },
+  "categories":["arcane"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "ars_nouveau:arcane_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "ars_nouveau:mana_gem" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

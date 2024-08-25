@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:nickel_ingot" 
+  },
+  "categories":["nickel"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "alltheores:ore_nickel"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "alltheores:ore_nickel" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

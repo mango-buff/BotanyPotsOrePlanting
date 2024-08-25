@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:sulfur_block"
+  },
+  "display": {
+    "block": "thermal:sulfur_block"
+  },
+  "growthModifier": 0,
+  "categories": ["sulfur"]
+}

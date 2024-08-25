@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:redstone" 
+  },
+  "categories":["redstone"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "minecraft:redstone_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "minecraft:redstone" 
+      },
+      "minRolls": 4, 
+      "maxRolls": 5 
+    }
+  ]
+}

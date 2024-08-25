@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tinkersarchery:tantalum_block" 
+  },
+  "display": {
+    "block": "tinkersarchery:tantalum_block"
+  },
+  "growthModifier": 0, 
+  "categories": ["tantalum"]  
+}

@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:silver_block"
+  },
+  "display": {
+    "block": "alltheores:silver_block"
+  },
+  "growthModifier": 0,
+  "categories": ["silver"]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "immersiveengineering:ingot_nickel" 
+  },
+  "categories":["nickel"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "immersiveengineering:ore_nickel"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "immersiveengineering:ore_nickel" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3  
+    }
+  ]
+}

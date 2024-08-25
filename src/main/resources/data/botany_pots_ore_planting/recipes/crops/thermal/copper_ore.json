@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:copper_ingot" 
+  },
+  "categories":["copper"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "thermal:copper_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "thermal:copper_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

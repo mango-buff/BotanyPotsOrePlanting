@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:valyrium_ingot" 
+  },
+  "categories":["valyrium"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:valyrium_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:valyrium_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

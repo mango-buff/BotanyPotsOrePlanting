@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pixelmon:sapphire_block"
+  },
+  "display": {
+    "block": "pixelmon:sapphire_block"
+  },
+  "growthModifier": 0,
+  "categories": ["sapphire"]
+}

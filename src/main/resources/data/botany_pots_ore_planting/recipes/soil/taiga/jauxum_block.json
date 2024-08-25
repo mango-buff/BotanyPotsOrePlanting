@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:jauxum_block"
+  },
+  "display": {
+    "block": "taiga:jauxum_block"
+  },
+  "growthModifier": 0,
+  "categories": ["jauxum"]
+}

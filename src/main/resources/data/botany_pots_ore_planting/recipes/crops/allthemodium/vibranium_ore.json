@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "allthemodium:vibranium_ingot" 
+  },
+  "categories":["vibranium"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "allthemodium:vibranium_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "allthemodium:vibranium_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

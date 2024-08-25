@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:osram_ingot" 
+  },
+  "categories":["osram"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:osram_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:osram_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

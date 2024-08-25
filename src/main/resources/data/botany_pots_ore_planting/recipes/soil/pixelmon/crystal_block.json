@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pixelmon:crystal_block"
+  },
+  "display": {
+    "block": "pixelmon:crystal_block"
+  },
+  "growthModifier": 0,
+  "categories": ["crystal"]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:eezo_ingot" 
+  },
+  "categories":["eezo"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:eezo_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:eezo_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

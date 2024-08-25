@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:glowstone_dust" 
+  },
+  "categories":["glowstone"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "minecraft:glowstone"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "minecraft:glowstone_dust" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 4 
+    }
+  ]
+}

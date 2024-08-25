@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pixelmon:ruby_block"
+  },
+  "display": {
+    "block": "pixelmon:ruby_block"
+  },
+  "growthModifier": 0,
+  "categories": ["ruby"]
+}

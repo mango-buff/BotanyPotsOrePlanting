@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:osmium_ingot" 
+  },
+  "categories":["osmium"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "alltheores:ore_osmium"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "alltheores:ore_osmium" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

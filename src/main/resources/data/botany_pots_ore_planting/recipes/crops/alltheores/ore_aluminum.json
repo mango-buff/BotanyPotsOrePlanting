@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alltheores:aluminum_ingot" 
+  },
+  "categories":["aluminum"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "alltheores:ore_aluminum"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "alltheores:ore_aluminum" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

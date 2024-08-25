@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgear:azure_silver_ingot" 
+  },
+  "categories":["azure_silver"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "silentgear:azure_silver_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "silentgear:raw_azure_silver" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

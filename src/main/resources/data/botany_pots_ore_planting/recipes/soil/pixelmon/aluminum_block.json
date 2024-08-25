@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "pixelmon:aluminum_block"
+  },
+  "display": {
+    "block": "pixelmon:aluminum_block"
+  },
+  "growthModifier": 0,
+  "categories": ["aluminum"]
+}

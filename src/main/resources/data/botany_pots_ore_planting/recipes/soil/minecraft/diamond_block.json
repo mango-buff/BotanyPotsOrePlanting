@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:diamond_block"
+  },
+  "display": {
+    "block": "minecraft:diamond_block"
+  },
+  "growthModifier": 0,
+  "categories": ["diamond"]
+}

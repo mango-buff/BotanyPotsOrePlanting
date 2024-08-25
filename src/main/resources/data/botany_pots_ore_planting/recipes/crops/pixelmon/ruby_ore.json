@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pixelmon:ruby" 
+  },
+  "categories":["ruby"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "pixelmon:ruby_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "pixelmon:ruby" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

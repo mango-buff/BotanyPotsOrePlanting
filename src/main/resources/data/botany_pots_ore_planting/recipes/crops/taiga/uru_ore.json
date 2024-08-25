@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:uru_ingot" 
+  },
+  "categories":["uru"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:uru_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:uru_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

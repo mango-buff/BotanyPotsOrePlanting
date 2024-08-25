@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:aurorium_block"
+  },
+  "display": {
+    "block": "taiga:aurorium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["aurorium"]
+}

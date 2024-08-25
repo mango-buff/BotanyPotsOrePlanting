@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "thermal:nickel_ingot" 
+  },
+  "categories":["nickel"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "thermal:nickel_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "thermal:nickel_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

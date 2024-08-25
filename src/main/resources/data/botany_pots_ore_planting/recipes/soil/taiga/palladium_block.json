@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:palladium_block"
+  },
+  "display": {
+    "block": "taiga:palladium_block"
+  },
+  "growthModifier": 0,
+  "categories": ["palladium"]
+}

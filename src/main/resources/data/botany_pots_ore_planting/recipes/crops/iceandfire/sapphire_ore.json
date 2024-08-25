@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "iceandfire:sapphire_gem"
+  },
+  "categories":["sapphire"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "iceandfire:sapphire_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "iceandfire:sapphire_gem" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

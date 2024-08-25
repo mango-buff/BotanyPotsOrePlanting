@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_lead"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_lead"
+  },
+  "growthModifier": 0,
+  "categories": ["lead"]
+}

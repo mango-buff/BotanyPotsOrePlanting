@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mekanism:fluorite_gem" 
+  },
+  "categories":["fluorite"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "mekanism:fluorite_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "mekanism:fluorite_gem" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

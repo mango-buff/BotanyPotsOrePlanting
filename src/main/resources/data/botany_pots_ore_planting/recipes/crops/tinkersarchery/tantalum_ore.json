@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tinkersarchery:tantalum_ingot" 
+  },
+  "categories":["tantalum"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "tinkersarchery:tantalum_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "tinkersarchery:tantalum_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

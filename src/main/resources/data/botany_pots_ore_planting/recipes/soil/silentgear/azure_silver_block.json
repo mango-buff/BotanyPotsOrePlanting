@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgear:azure_silver_block"
+  },
+  "display": {
+    "block": "silentgear:azure_silver_block"
+  },
+  "growthModifier": 0,
+  "categories": ["azure_silver"]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "silentgear:crimson_iron_block"
+  },
+  "display": {
+    "block": "silentgear:crimson_iron_block"
+  },
+  "growthModifier": 0,
+  "categories": ["crimson_iron"]
+}

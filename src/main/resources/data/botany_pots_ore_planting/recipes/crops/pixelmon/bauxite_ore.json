@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pixelmon:aluminum_ingot" 
+  },
+  "categories":["aluminum"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "pixelmon:bauxite_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "pixelmon:bauxite_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

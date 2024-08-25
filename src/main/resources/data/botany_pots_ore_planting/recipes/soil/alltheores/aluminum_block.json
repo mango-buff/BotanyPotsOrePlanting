@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:aluminum_block"
+  },
+  "display": {
+    "block": "alltheores:aluminum_block"
+  },
+  "growthModifier": 0,
+  "categories": ["aluminum"]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:lapis_lazuli" 
+  },
+  "categories":["lapis"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "minecraft:lapis_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "minecraft:lapis_lazuli" 
+      },
+      "minRolls": 4, 
+      "maxRolls": 8 
+    }
+  ]
+}

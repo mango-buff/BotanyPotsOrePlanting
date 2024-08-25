@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "botania:dragonstone_block" 
+  },
+  "display": {
+    "block": "botania:dragonstone_block" 
+  },
+  "growthModifier": 0, 
+  "categories": ["dragonstone"]  
+}

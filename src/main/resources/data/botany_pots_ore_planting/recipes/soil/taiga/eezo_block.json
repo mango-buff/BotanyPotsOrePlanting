@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:eezo_block"
+  },
+  "display": {
+    "block": "taiga:eezo_block"
+  },
+  "growthModifier": 0,
+  "categories": ["eezo_ore"]
+}

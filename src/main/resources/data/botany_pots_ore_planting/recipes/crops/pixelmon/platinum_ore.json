@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pixelmon:platinum_ingot" 
+  },
+  "categories":["platinum"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "pixelmon:platinum_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "pixelmon:platinum_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

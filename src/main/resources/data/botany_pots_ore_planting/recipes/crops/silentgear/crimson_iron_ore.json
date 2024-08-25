@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgear:crimson_iron_ingot" 
+  },
+  "categories":["crimson_iron"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "silentgear:crimson_iron_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "silentgear:raw_crimson_iron" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

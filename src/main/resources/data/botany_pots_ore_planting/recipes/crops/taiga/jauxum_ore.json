@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:jauxum_ingot" 
+  },
+  "categories":["jauxum"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:jauxum_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:jauxum_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

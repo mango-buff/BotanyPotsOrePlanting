@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mekanism:ingot_copper" 
+  },
+  "categories":["copper"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "mekanism:copper_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "mekanism:copper_ore"
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

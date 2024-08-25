@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "allthemodium:allthemodium_ingot" 
+  },
+  "categories":["allthemodium"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "allthemodium:allthemodium_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "allthemodium:allthemodium_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

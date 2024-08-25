@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:iron_ingot" 
+  },
+  "categories":["iron"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "minecraft:iron_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "minecraft:iron_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

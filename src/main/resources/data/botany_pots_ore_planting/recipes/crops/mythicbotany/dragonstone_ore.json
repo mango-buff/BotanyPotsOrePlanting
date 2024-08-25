@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "botania:dragonstone" 
+  },
+  "categories":["dragonstone"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "mythicbotany:dragonstone_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "botania:dragonstone"
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

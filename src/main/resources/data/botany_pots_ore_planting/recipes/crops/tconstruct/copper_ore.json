@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:copper_ingot"
+  },
+  "categories":["copper"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "tconstruct:copper_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "tconstruct:copper_ore" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

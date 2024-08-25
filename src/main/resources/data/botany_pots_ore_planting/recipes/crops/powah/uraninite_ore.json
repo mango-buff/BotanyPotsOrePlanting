@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "powah:uraninite" 
+  },
+  "categories":["uraninite"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "powah:uraninite_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "powah:uraninite_raw" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

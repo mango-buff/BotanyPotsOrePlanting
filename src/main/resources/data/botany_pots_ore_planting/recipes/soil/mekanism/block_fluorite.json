@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_fluorite" 
+  },
+  "display": {
+    "block": "mekanism:block_fluorite" 
+  },
+  "growthModifier": 0, 
+  "categories": ["fluorite"]  
+}

@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "taiga:palladium_ingot" 
+  },
+  "categories":["palladium"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "taiga:palladium_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "taiga:palladium_ore"
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

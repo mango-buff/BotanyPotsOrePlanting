@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "thermal:tin_block"
+  },
+  "display": {
+    "block": "thermal:tin_block"
+  },
+  "growthModifier": 0,
+  "categories": ["tin"]
+}

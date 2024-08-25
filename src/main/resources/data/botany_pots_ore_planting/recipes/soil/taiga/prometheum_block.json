@@ -1,0 +1,11 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "taiga:prometheum_block"
+  },
+  "display": {
+    "block": "taiga:prometheum_block"
+  },
+  "growthModifier": 0,
+  "categories": ["prometheum"]
+}

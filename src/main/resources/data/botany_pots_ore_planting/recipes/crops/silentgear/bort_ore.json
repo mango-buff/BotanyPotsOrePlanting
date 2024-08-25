@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "silentgear:bort" 
+  },
+  "categories":["bort"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "silentgear:bort_ore"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "silentgear:bort" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}

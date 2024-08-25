@@ -1,0 +1,22 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "immersiveengineering:ingot_lead" 
+  },
+  "categories":["lead"], 
+  "growthTicks": 1200, 
+  "growthModifier": 1.2, 
+  "display": {
+    "block": "immersiveengineering:ore_lead"
+    },
+  "results": [
+    {
+      "chance": 1, 
+      "output": {
+        "item": "immersiveengineering:ore_lead" 
+      },
+      "minRolls": 2, 
+      "maxRolls": 3 
+    }
+  ]
+}
