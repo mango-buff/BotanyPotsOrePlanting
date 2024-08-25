@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:iridium_block"
+  },
+  "display": {
+    "block": "alltheores:iridium_block"
+  },
+  "categories": [
+    "iridium"
+  ],
+  "growthModifier": 1
+}
