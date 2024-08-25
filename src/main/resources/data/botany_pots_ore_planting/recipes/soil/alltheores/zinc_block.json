@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:zinc_block"
+  },
+  "display": {
+    "block": "alltheores:zinc_block"
+  },
+  "categories": [
+    "zinc"
+  ],
+  "growthModifier": 1
+}

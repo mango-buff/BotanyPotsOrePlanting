@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:cinnabar_gem"
+  },
+  "categories": [
+    "cinnabar"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:cinnabar_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_cinnabar"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

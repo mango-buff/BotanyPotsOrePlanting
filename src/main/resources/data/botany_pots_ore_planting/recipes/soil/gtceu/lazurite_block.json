@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:lazurite_block"
+  },
+  "display": {
+    "block": "gtceu:lazurite_block"
+  },
+  "categories": [
+    "lazurite"
+  ],
+  "growthModifier": 1
+}

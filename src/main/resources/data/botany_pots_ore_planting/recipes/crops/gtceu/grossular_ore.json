@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:grossular_gem"
+  },
+  "categories": [
+    "grossular"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:grossular_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_grossular"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "blue_skies:moonstone_block"
+  },
+  "display": {
+    "block": "blue_skies:moonstone_block"
+  },
+  "categories": [
+    "moonstone"
+  ],
+  "growthModifier": 1
+}

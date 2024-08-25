@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "ulterlands:etherite"
+  },
+  "categories": [
+    "etherite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ulterlands:etherite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ulterlands:etherite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

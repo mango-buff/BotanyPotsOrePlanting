@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:platinum_block"
+  },
+  "display": {
+    "block": "alltheores:platinum_block"
+  },
+  "categories": [
+    "platinum"
+  ],
+  "growthModifier": 1
+}

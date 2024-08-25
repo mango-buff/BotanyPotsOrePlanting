@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "blue_skies:charoite_block"
+  },
+  "display": {
+    "block": "blue_skies:charoite_block"
+  },
+  "categories": [
+    "charoite"
+  ],
+  "growthModifier": 1
+}

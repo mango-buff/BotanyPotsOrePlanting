@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "blue_skies:ventium_block"
+  },
+  "display": {
+    "block": "blue_skies:ventium_block"
+  },
+  "categories": [
+    "ventium"
+  ],
+  "growthModifier": 1
+}

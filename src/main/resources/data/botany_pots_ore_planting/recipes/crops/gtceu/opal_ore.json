@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:opal_gem"
+  },
+  "categories": [
+    "opal"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:opal_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_opal"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

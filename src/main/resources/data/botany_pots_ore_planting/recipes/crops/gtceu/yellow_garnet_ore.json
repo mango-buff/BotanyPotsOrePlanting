@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:yellow_garnet_gem"
+  },
+  "categories": [
+    "yellow_garnet"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:yellow_garnet_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_yellow_garnet"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

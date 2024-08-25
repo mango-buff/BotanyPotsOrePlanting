@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "epicsamurai:onyx_block"
+  },
+  "display": {
+    "block": "epicsamurai:onyx_block"
+  },
+  "categories": [
+    "onyx"
+  ],
+  "growthModifier": 1
+}

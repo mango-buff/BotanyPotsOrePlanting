@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mekanism:ingot_osmium"
+  },
+  "categories": [
+    "osmium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mekanism:osmium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mekanism:raw_osmium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

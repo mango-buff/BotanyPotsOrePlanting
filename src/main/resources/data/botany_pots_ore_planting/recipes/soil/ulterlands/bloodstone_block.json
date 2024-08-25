@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ulterlands:bloodstone_block"
+  },
+  "display": {
+    "block": "ulterlands:bloodstone_block"
+  },
+  "categories": [
+    "bloodstone"
+  ],
+  "growthModifier": 1
+}

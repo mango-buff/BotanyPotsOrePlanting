@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:realgar_block"
+  },
+  "display": {
+    "block": "gtceu:realgar_block"
+  },
+  "categories": [
+    "realgar"
+  ],
+  "growthModifier": 1
+}

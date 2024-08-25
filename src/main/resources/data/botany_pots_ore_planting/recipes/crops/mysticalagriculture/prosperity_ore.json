@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagriculture:prosperity_ingot"
+  },
+  "categories": [
+    "prosperity"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:prosperity_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:prosperity_shard"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

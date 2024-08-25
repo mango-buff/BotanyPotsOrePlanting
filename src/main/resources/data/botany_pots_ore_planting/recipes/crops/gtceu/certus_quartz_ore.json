@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:certus_quartz_gem"
+  },
+  "categories": [
+    "certus_quartz"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:certus_quartz_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_certus_quartz"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

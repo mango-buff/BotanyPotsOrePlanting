@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:blue_topaz_block"
+  },
+  "display": {
+    "block": "gtceu:blue_topaz_block"
+  },
+  "categories": [
+    "blue_topaz"
+  ],
+  "growthModifier": 1
+}

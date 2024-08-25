@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:nickel_block"
+  },
+  "display": {
+    "block": "alltheores:nickel_block"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthModifier": 1
+}
