@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "blue_skies:charoite"
+  },
+  "categories": [
+    "charoite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "blue_skies:everbright_charoite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "blue_skies:raw_charoite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

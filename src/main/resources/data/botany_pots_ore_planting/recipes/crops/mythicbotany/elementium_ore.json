@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "botania:elementium_ingot"
+  },
+  "categories": [
+    "elementium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicbotany:elementium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicbotany:elementium_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

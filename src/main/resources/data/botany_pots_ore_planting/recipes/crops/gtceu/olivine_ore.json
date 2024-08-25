@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:olivine_gem"
+  },
+  "categories": [
+    "olivine"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:olivine_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_olivine"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

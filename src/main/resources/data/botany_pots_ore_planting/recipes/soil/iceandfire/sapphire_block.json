@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "iceandfire:sapphire_block"
+  },
+  "display": {
+    "block": "iceandfire:sapphire_block"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:olivine_block"
+  },
+  "display": {
+    "block": "gtceu:olivine_block"
+  },
+  "categories": [
+    "olivine"
+  ],
+  "growthModifier": 1
+}

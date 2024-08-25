@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_uranium"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_uranium"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthModifier": 1
+}

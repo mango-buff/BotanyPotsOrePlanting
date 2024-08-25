@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism:block_osmium"
+  },
+  "display": {
+    "block": "mekanism:block_osmium"
+  },
+  "categories": [
+    "osmium"
+  ],
+  "growthModifier": 1
+}

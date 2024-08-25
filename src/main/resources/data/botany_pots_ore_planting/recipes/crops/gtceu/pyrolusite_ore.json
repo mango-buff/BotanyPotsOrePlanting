@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:manganese_ingot"
+  },
+  "categories": [
+    "manganese"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:pyrolusite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_pyrolusite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

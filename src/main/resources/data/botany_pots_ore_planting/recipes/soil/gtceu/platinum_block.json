@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:platinum_block"
+  },
+  "display": {
+    "block": "gtceu:platinum_block"
+  },
+  "categories": [
+    "platinum"
+  ],
+  "growthModifier": 1
+}

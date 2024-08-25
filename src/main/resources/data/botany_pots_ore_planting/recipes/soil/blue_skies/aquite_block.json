@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "blue_skies:aquite_block"
+  },
+  "display": {
+    "block": "blue_skies:aquite_block"
+  },
+  "categories": [
+    "aquite"
+  ],
+  "growthModifier": 1
+}

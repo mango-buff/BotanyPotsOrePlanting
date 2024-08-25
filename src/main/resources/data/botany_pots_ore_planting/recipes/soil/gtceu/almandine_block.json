@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:almandine_block"
+  },
+  "display": {
+    "block": "gtceu:almandine_block"
+  },
+  "categories": [
+    "almandine"
+  ],
+  "growthModifier": 1
+}

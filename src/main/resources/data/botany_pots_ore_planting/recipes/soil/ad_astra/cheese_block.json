@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_astra:cheese_block"
+  },
+  "display": {
+    "block": "ad_astra:cheese_block"
+  },
+  "categories": [
+    "cheese"
+  ],
+  "growthModifier": 1
+}

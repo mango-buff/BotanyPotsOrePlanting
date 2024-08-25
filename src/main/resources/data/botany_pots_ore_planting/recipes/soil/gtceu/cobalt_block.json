@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:cobalt_block"
+  },
+  "display": {
+    "block": "gtceu:cobalt_block"
+  },
+  "categories": [
+    "cobalt"
+  ],
+  "growthModifier": 1
+}

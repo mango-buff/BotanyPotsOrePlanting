@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:spessartine_block"
+  },
+  "display": {
+    "block": "gtceu:spessartine_block"
+  },
+  "categories": [
+    "spessartine"
+  ],
+  "growthModifier": 1
+}
