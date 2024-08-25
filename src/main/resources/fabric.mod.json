@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "botany_pots_ore_planting",
+	"version": "${version}",
+	"name": "Botany Pots Ore Planting",
+	"description": "This is a Mod that can grow minerals.",
+	"authors": [
+		"mango_buff"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/botany-pots-ore-planting",
+		"sources": "https://github.com/mango-buff/BotanyPotsOrePlanting"
+	},
+	"license": "MIT License",
+	"icon": "logo.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mango_buff.botany_pots_ore_planting.BotanyPotsOrePlanting"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"botanypots": ">=13.0.0"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

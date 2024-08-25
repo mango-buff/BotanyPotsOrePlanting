@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:adamantite_ingot"
+  },
+  "categories": [
+    "adamantite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:adamantite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_adamantite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

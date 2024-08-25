@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:thorium_block"
+  },
+  "display": {
+    "block": "gtceu:thorium_block"
+  },
+  "categories": [
+    "thorium"
+  ],
+  "growthModifier": 1
+}

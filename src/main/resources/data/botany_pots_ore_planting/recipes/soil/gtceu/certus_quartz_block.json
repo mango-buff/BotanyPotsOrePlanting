@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:certus_quartz_block"
+  },
+  "display": {
+    "block": "gtceu:certus_quartz_block"
+  },
+  "categories": [
+    "certus_quartz"
+  ],
+  "growthModifier": 1
+}

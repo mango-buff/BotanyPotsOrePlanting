@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:starrite"
+  },
+  "categories": [
+    "starrite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:starrite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:starrite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

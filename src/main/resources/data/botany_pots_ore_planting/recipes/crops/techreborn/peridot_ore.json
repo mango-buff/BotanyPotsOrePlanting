@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "techreborn:peridot_gem"
+  },
+  "categories": [
+    "peridot"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "techreborn:peridot_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "techreborn:peridot_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

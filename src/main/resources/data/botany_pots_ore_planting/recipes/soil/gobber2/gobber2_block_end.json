@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gobber2:gobber2_block_end"
+  },
+  "display": {
+    "block": "gobber2:gobber2_block_end"
+  },
+  "categories": [
+    "gobber2_end"
+  ],
+  "growthModifier": 1
+}

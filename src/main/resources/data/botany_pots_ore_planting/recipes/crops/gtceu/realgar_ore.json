@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:realgar_gem"
+  },
+  "categories": [
+    "realgar"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:realgar_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_realgar"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

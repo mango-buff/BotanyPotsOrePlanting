@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "modern_industrialization:tianium_block"
+  },
+  "display": {
+    "block": "modern_industrialization:tianium_block"
+  },
+  "categories": [
+    "tianium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:sodalite_gem"
+  },
+  "categories": [
+    "sodalite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:sodalite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_sodalite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

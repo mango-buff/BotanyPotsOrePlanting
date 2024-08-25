@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:ruby_gem"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:ruby_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_ruby"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

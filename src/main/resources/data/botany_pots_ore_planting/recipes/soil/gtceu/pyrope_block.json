@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:pyrope_block"
+  },
+  "display": {
+    "block": "gtceu:pyrope_block"
+  },
+  "categories": [
+    "pyrope"
+  ],
+  "growthModifier": 1
+}

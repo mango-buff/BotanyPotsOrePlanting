@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:sapphire_block"
+  },
+  "display": {
+    "block": "gtceu:sapphire_block"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthModifier": 1
+}
