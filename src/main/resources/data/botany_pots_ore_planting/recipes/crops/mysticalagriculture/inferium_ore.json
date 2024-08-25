@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mysticalagriculture:inferium_ingot"
+  },
+  "categories": [
+    "inferium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:inferium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:inferium_essence"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

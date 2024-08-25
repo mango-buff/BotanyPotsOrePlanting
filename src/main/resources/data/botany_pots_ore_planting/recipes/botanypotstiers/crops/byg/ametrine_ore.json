@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "byg:ametrine_gems"
+  },
+  "categories": [
+    "metrine"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "byg:ametrine_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "byg:ametrine_gems"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

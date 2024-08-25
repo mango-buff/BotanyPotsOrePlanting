@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "epicsamurai:jade"
+  },
+  "categories": [
+    "jade"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "epicsamurai:jade_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "epicsamurai:jade"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

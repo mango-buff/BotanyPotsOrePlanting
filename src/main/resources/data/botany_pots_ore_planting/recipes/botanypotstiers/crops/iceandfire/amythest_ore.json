@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "iceandfire:amythest_gem"
+  },
+  "categories": [
+    "amythest"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "iceandfire:amythest_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "iceandfire:amythest_gem"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

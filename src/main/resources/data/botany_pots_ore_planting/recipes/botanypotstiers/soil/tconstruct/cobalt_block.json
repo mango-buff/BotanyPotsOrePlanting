@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "tconstruct:cobalt_block"
+  },
+  "display": {
+    "block": "tconstruct:cobalt_block"
+  },
+  "categories": [
+    "cobalt"
+  ],
+  "growthModifier": 1
+}

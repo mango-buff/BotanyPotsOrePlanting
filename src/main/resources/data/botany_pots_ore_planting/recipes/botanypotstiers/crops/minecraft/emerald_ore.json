@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "minecraft:emerald"
+  },
+  "categories": [
+    "emerald"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minecraft:emerald_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:emerald"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

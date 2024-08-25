@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alltheores:peridot_block"
+  },
+  "display": {
+    "block": "alltheores:peridot_block"
+  },
+  "categories": [
+    "peridot"
+  ],
+  "growthModifier": 1
+}

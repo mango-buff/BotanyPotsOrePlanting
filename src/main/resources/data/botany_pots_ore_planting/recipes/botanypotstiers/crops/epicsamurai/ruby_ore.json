@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "epicsamurai:ruby"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "epicsamurai:ruby_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "epicsamurai:ruby"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

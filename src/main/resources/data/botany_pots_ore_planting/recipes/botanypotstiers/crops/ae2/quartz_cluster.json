@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "categories": [
+    "certus_quartz"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ae2:quartz_cluster"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ae2:certus_quartz_crystal"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

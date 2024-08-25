@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "immersiveengineering:ingot_uranium"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "immersiveengineering:ore_uranium"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "immersiveengineering:raw_uranium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

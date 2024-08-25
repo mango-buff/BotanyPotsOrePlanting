@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "categories": [
+    "amethyst"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minecraft:amethyst_cluster"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

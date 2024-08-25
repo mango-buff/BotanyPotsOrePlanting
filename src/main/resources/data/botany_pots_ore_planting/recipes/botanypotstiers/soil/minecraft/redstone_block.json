@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "minecraft:redstone_block"
+  },
+  "display": {
+    "block": "minecraft:redstone_block"
+  },
+  "categories": [
+    "redstone"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "aether:ambrosium_shard"
+  },
+  "categories": [
+    "ambrosium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "aether:ambrosium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "aether:ambrosium_shard"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

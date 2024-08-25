@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "thermal:nickel_ingot"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "thermal:nickel_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "thermal:raw_nickel"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

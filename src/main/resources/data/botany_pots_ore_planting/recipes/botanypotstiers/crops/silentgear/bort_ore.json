@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mysticalagriculture:bort"
+  },
+  "categories": [
+    "bort"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:bort_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:bort"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

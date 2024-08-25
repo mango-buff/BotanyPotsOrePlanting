@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "ulterlands:bluestone_shard"
+  },
+  "categories": [
+    "bloodstone"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ulterlands:bluestone_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ulterlands:bluestone_shard"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

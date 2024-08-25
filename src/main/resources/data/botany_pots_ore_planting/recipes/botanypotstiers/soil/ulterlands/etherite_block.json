@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "ulterlands:etherite_block"
+  },
+  "display": {
+    "block": "ulterlands:etherite_block"
+  },
+  "categories": [
+    "etherite"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mysticalagriculture:prosperity_block"
+  },
+  "display": {
+    "block": "mysticalagriculture:prosperity_block"
+  },
+  "categories": [
+    "prosperity"
+  ],
+  "growthModifier": 1
+}

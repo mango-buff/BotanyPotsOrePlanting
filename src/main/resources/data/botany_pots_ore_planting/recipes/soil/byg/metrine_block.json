@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "byg:metrine_block"
+  },
+  "display": {
+    "block": "byg:metrine_block"
+  },
+  "categories": [
+    "metrine"
+  ],
+  "growthModifier": 1
+}

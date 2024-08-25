@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tinkers_reforged:kepu_ingot"
+  },
+  "categories": [
+    "kepu"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tinkers_reforged:kepu_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tinkers_reforged:raw_kepu"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

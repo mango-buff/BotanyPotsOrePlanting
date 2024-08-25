@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "forbidden_arcanus:arcane_crystal_block"
+  },
+  "display": {
+    "block": "forbidden_arcanus:arcane_crystal_block"
+  },
+  "categories": [
+    "arcane_crystal"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "silentgear:bort_block"
+  },
+  "display": {
+    "block": "silentgear:bort_block"
+  },
+  "categories": [
+    "bort"
+  ],
+  "growthModifier": 1
+}

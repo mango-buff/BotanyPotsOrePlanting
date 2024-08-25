@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "immersiveengineering:storage_lead"
+  },
+  "display": {
+    "block": "immersiveengineering:storage_lead"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthModifier": 1
+}

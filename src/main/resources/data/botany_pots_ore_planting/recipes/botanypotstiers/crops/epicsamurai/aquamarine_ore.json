@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "epicsamurai:aquamarine"
+  },
+  "categories": [
+    "aquamarine"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "epicsamurai:aquamarine_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "epicsamurai:aquamarine"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

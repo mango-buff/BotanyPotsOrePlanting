@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "epicsamurai:silver_block"
+  },
+  "display": {
+    "block": "epicsamurai:silver_block"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthModifier": 1
+}

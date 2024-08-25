@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "ae2:quartz_block"
+  },
+  "display": {
+    "block": "ae2:quartz_block"
+  },
+  "categories": [
+    "certus_quartz"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "epicsamurai:jade_block"
+  },
+  "display": {
+    "block": "epicsamurai:jade_block"
+  },
+  "categories": [
+    "jade"
+  ],
+  "growthModifier": 1
+}

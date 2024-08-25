@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tinkers_reforged:aluminum_ingot"
+  },
+  "categories": [
+    "aluminum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tinkers_reforged:aluminum_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tinkers_reforged:raw_aluminum"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

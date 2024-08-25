@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "byg:pendorite_ingot"
+  },
+  "categories": [
+    "pendorite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "byg:pendorite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "byg:raw_pendorite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

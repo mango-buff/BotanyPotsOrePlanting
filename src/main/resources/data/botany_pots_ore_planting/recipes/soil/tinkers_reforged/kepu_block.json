@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tinkers_reforged:kepu_block"
+  },
+  "display": {
+    "block": "tinkers_reforged:kepu_block"
+  },
+  "categories": [
+    "kepu"
+  ],
+  "growthModifier": 1
+}

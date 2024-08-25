@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mysticalagriculture:azure_silver_ingot"
+  },
+  "categories": [
+    "azure_silver"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mysticalagriculture:azure_silver_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mysticalagriculture:raw_azure_silver"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
