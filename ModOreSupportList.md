@@ -25,7 +25,6 @@
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)**
 + **[All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)**
-+ **[Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)**
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
 + **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
 + **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)**
@@ -51,7 +50,6 @@
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)**
 + **[All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)**
-+ **[Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)**
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
 + **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)**
 + **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
@@ -103,7 +101,7 @@
 ## Minecraft 1.18.2
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
++ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)**
 + **[Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)**
 + **[Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
@@ -116,7 +114,7 @@
 ## Minecraft 1.19.2
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
++ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)**
 + **[Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)**
 + **[Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
@@ -129,7 +127,7 @@
 ## Minecraft 1.20.1
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
++ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)**
 + **[Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)**
 + **[Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
