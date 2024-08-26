@@ -10,7 +10,8 @@
 + **[Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)**
 + **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
 + **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-+ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
++ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)** 
++ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
 + **[Pixelmon](https://www.curseforge.com/minecraft/mc-mods/pixelmon)**
 + **[Powah!](https://www.curseforge.com/minecraft/mc-mods/powah)**
 + **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
@@ -31,7 +32,8 @@
 + **[Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)**
 + **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
 + **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-+ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
++ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)**
++ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
 + **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
 + **[Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)**
@@ -54,7 +56,8 @@
 + **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)**
 + **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
 + **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-+ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
++ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)**
++ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
 + **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
 + **[Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)**
@@ -78,7 +81,8 @@
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
 + **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
 + **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-+ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
++ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)**
++ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
 + **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
 + **[Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)**
@@ -105,6 +109,9 @@
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
 + **[Hephaestus Fabric](https://www.curseforge.com/minecraft/mc-mods/hephaestus-fabric)**
 + **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)**
++ **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
++ **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
 
 ## Minecraft 1.19.2
 + **[Minecraft](https://www.minecraft.net/)**
@@ -114,6 +121,10 @@
 + **[Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)**
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
 + **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)**
++ **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
++ **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
++ **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
 
 ## Minecraft 1.20.1
 + **[Minecraft](https://www.minecraft.net/)**
@@ -124,3 +135,7 @@
 + **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
 + **[Hephaestus Fabric](https://www.curseforge.com/minecraft/mc-mods/hephaestus-fabric)**
 + **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)**
++ **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
++ **[Samurai Dynasty](https://www.curseforge.com/minecraft/mc-mods/epic-samurais-fabric)**
++ **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
