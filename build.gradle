@@ -168,7 +168,7 @@ dependencies {
 
 //Convenient for updating Mod versions.
 processResources {
-    inputs.property "version", mod_version
+    inputs.property "mod_version", mod_version
 
     filesMatching('META-INF/mods.toml') {
         expand "mod_version": mod_version
