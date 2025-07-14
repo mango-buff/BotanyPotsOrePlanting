@@ -16,7 +16,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 
 
-version = 'Forge-2.24.0+1.18.2'
+version = 'Forge-'+mod_version+'+1.18.2'
 group = 'com.mango_buff.botany_pots_ore_planting' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'BotanyPotsOrePlanting'
 
@@ -164,6 +164,15 @@ dependencies {
     // For more info...
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
+}
+
+//Convenient for updating Mod versions.
+processResources {
+    inputs.property "version", mod_version
+
+    filesMatching('META-INF/mods.toml') {
+        expand "mod_version": mod_version
+    }
 }
 
 // Example for how to get properties into the manifest for reading at runtime.
