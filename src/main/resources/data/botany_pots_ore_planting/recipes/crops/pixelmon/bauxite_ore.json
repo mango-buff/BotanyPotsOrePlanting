@@ -1,9 +1,9 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "pixelmon:aluminum_ingot" 
+    "item": "pixelmon:aluminium_ingot"
   },
-  "categories":["aluminum"], 
+  "categories":["aluminium"],
   "growthTicks": 1200, 
   "growthModifier": 1.2, 
   "display": {
