@@ -1,20 +1,20 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "silentgear:azure_silver_ingot"
+    "item": "nuclearcraft:zinc_ingot"
   },
   "categories": [
-    "azure_silver"
+    "zinc"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "silentgear:azure_silver_ore"
+    "block": "nuclearcraft:zinc_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "silentgear:raw_azure_silver"
+        "item": "nuclearcraft:zinc_chunk"
       },
       "minRolls": 2,
       "maxRolls": 3

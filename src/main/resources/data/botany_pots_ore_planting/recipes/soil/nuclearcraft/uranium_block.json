@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "nuclearcraft:uranium_block"
+  },
+  "display": {
+    "block": "nuclearcraft:uranium_block"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthModifier": 1
+}

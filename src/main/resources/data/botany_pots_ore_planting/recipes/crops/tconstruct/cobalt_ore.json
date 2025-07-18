@@ -1,20 +1,20 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "silentgear:azure_silver_ingot"
+    "item": "tconstruct:cobalt_ingot"
   },
   "categories": [
-    "azure_silver"
+    "cobalt"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "silentgear:azure_silver_ore"
+    "block": "tconstruct:cobalt_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "silentgear:raw_azure_silver"
+        "item": "tconstruct:raw_cobalt"
       },
       "minRolls": 2,
       "maxRolls": 3

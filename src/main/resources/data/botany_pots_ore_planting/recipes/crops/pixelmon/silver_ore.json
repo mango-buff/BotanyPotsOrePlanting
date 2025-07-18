@@ -1,20 +1,20 @@
 {
-  "type": "botanypots:crop",
+  "type": "botanypotstiers:crop",
   "seed": {
-    "item": "silentgear:azure_silver_ingot"
+    "item": "pixelmon:silver_ingot"
   },
   "categories": [
-    "azure_silver"
+    "silver"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "silentgear:azure_silver_ore"
+    "block": "pixelmon:silver_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "silentgear:raw_azure_silver"
+        "item": "pixelmon:silver_ore"
       },
       "minRolls": 2,
       "maxRolls": 3

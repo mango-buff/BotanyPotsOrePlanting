@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "pixelmon:amethyst_block"
+  },
+  "display": {
+    "block": "pixelmon:amethyst_block"
+  },
+  "categories": [
+    "amethyst"
+  ],
+  "growthModifier": 1
+}
