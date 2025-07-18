@@ -1,20 +1,20 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "mysticalagriculture:crimson_iron_ingot"
+    "item": "silentgear:crimson_iron_ingot"
   },
   "categories": [
     "crimson_iron"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "mysticalagriculture:crimson_iron_ore"
+    "block": "silentgear:crimson_iron_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "mysticalagriculture:raw_crimson_iron"
+        "item": "silentgear:raw_crimson_iron"
       },
       "minRolls": 2,
       "maxRolls": 3

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "nuclearcraft:lithium_block"
+  },
+  "display": {
+    "block": "nuclearcraft:lithium_block"
+  },
+  "categories": [
+    "lithium"
+  ],
+  "growthModifier": 1
+}

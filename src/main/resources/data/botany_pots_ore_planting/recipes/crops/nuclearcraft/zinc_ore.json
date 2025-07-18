@@ -1,20 +1,20 @@
 {
-  "type": "botanypotstiers:crop",
+  "type": "botanypots:crop",
   "seed": {
-    "item": "botania:elementium_ingot"
+    "item": "nuclearcraft:zinc_ingot"
   },
   "categories": [
-    "elementium"
+    "zinc"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "mythicbotany:elementium_ore"
+    "block": "nuclearcraft:zinc_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "mythicbotany:raw_elementium"
+        "item": "nuclearcraft:zinc_chunk"
       },
       "minRolls": 2,
       "maxRolls": 3

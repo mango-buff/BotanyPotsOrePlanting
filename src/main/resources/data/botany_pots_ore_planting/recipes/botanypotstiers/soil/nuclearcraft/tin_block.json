@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "nuclearcraft:tin_block"
+  },
+  "display": {
+    "block": "nuclearcraft:tin_block"
+  },
+  "categories": [
+    "tin"
+  ],
+  "growthModifier": 1
+}

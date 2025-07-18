@@ -1,20 +1,20 @@
 {
   "type": "botanypotstiers:crop",
   "seed": {
-    "item": "botania:elementium_ingot"
+    "item": "nuclearcraft:silver_ingot"
   },
   "categories": [
-    "elementium"
+    "silver"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "mythicbotany:elementium_ore"
+    "block": "nuclearcraft:silver_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "mythicbotany:raw_elementium"
+        "item": "nuclearcraft:silver_chunk"
       },
       "minRolls": 2,
       "maxRolls": 3

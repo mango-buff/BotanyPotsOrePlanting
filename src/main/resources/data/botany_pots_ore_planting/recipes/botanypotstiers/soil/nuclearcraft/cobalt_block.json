@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "nuclearcraft:cobalt_block"
+  },
+  "display": {
+    "block": "nuclearcraft:cobalt_block"
+  },
+  "categories": [
+    "cobalt"
+  ],
+  "growthModifier": 1
+}

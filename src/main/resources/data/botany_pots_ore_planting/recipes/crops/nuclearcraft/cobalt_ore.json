@@ -1,20 +1,20 @@
 {
-  "type": "botanypotstiers:crop",
+  "type": "botanypots:crop",
   "seed": {
-    "item": "botania:elementium_ingot"
+    "item": "nuclearcraft:cobalt_ingot"
   },
   "categories": [
-    "elementium"
+    "cobalt"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "mythicbotany:elementium_ore"
+    "block": "nuclearcraft:cobalt_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "mythicbotany:raw_elementium"
+        "item": "nuclearcraft:cobalt_chunk"
       },
       "minRolls": 2,
       "maxRolls": 3
