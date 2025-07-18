@@ -1,20 +1,20 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "silentgear:azure_silver_ingot"
+    "item": "draconicevolution:draconium_ingot"
   },
   "categories": [
-    "azure_silver"
+    "draconium"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "silentgear:azure_silver_ore"
+    "block": "draconicevolution:overworld_draconium_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "silentgear:raw_azure_silver"
+        "item": "draconicevolution:draconium_dust"
       },
       "minRolls": 2,
       "maxRolls": 3

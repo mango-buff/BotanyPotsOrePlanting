@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "nuclearcraft:boron_block"
+  },
+  "display": {
+    "block": "nuclearcraft:boron_block"
+  },
+  "categories": [
+    "boron"
+  ],
+  "growthModifier": 1
+}
