@@ -45,6 +45,7 @@
 + **[Ulterlands: Worlds Apart](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
 + **[Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)**
++ **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
 
 ## Minecraft 1.19.2
 + **[Minecraft](https://www.minecraft.net/)**
@@ -71,6 +72,9 @@
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
 + **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
 + **[Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)**
++ **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
++ **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
++ **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
 
 ## Minecraft 1.20.1
 + **[Minecraft](https://www.minecraft.net/)**
@@ -96,6 +100,10 @@
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
 + **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
++ **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
++ **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
++ **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
++ **[Pixelmon](https://www.curseforge.com/minecraft/mc-mods/pixelmon)**
 
 # Fabric
 ## Minecraft 1.18.2
@@ -110,6 +118,7 @@
 + **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
++ **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
 
 ## Minecraft 1.19.2
 + **[Minecraft](https://www.minecraft.net/)**
@@ -123,6 +132,7 @@
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
++ **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
 
 ## Minecraft 1.20.1
 + **[Minecraft](https://www.minecraft.net/)**
@@ -137,3 +147,4 @@
 + **[Samurai Dynasty](https://www.curseforge.com/minecraft/mc-mods/epic-samurais-fabric)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
++ **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
