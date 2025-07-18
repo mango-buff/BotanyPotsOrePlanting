@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "nuclearcraft:thorium_block"
+  },
+  "display": {
+    "block": "nuclearcraft:thorium_block"
+  },
+  "categories": [
+    "thorium"
+  ],
+  "growthModifier": 1
+}

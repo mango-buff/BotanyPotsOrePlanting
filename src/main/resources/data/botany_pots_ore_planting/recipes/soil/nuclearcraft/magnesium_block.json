@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "nuclearcraft:magnesium_block"
+  },
+  "display": {
+    "block": "nuclearcraft:magnesium_block"
+  },
+  "categories": [
+    "magnesium"
+  ],
+  "growthModifier": 1
+}

@@ -1,20 +1,20 @@
 {
   "type": "botanypots:crop",
   "seed": {
-    "item": "silentgear:azure_silver_ingot"
+    "item": "mekanism_extras:ingot_naquadah"
   },
   "categories": [
-    "azure_silver"
+    "naquadah"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "silentgear:azure_silver_ore"
+    "block": "mekanism_extras:naquadah_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "silentgear:raw_azure_silver"
+        "item": "mekanism_extras:raw_naquadah"
       },
       "minRolls": 2,
       "maxRolls": 3

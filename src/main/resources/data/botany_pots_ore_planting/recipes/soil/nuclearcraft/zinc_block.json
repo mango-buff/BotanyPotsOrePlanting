@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "nuclearcraft:zinc_block"
+  },
+  "display": {
+    "block": "nuclearcraft:zinc_block"
+  },
+  "categories": [
+    "zinc"
+  ],
+  "growthModifier": 1
+}
