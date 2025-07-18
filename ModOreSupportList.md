@@ -89,7 +89,6 @@
 + **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
 + **[Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)**
 + **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)**
-+ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
 + **[Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)**
 + **[Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)**
 + **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
