@@ -1,20 +1,20 @@
 {
   "type": "botanypotstiers:crop",
   "seed": {
-    "item": "modern_industrialization:tianium_ingot"
+    "item": "indrev:tin_ingot"
   },
   "categories": [
-    "tianium"
+    "tin"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "modern_industrialization:tianium_ore"
+    "block": "indrev:tin_ore"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "modern_industrialization:raw_tianium"
+        "item": "indrev:raw_tin"
       },
       "minRolls": 2,
       "maxRolls": 3
