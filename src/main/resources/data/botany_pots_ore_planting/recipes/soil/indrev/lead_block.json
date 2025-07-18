@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "indrev:lead_block"
+  },
+  "display": {
+    "block": "indrev:lead_block"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthModifier": 1
+}
