@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:stormyx_ingot"
+  },
+  "categories": [
+    "stormyx"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:stormyx_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_stormyx"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

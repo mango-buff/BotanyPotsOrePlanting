@@ -1,0 +1,39 @@
+plugins {
+    id 'fabric-loom' version '1.3.+'
+    id 'maven-publish'
+}
+
+version = "Fabric-${fabric_mod_version}+${mc_version}"
+archivesBaseName = 'BotanyPotsOrePlanting'
+
+dependencies {
+    minecraft "com.mojang:minecraft:${mc_version}"
+    mappings "net.fabricmc:yarn:${yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_api_version}"
+
+    implementation project(':common')
+}
+
+processResources {
+    from project(":common").sourceSets.main.resources
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    inputs.property "fabric_mod_version", fabric_mod_version
+    filesMatching("fabric.mod.json") {
+        expand "fabric_mod_version": fabric_mod_version
+    }
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+        maven {
+            url "file://${project.projectDir}/mcmodsrepo"
+        }
+    }
+}

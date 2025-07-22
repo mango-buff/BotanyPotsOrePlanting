@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:midas_gold_block"
+  },
+  "display": {
+    "block": "mythicmetals:midas_gold_block"
+  },
+  "categories": [
+    "midas_gold"
+  ],
+  "growthModifier": 1
+}

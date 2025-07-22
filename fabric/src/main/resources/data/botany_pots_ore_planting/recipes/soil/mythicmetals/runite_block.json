@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:runite_block"
+  },
+  "display": {
+    "block": "mythicmetals:runite_block"
+  },
+  "categories": [
+    "runite"
+  ],
+  "growthModifier": 1
+}
