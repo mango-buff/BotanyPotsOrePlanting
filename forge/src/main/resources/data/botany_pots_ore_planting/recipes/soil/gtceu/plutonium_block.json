@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:plutonium_block"
+  },
+  "display": {
+    "block": "gtceu:plutonium_block"
+  },
+  "categories": [
+    "plutonium"
+  ],
+  "growthModifier": 1
+}

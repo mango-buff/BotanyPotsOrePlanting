@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:spessartine_gem"
+  },
+  "categories": [
+    "spessartine"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:spessartine_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_spessartine"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

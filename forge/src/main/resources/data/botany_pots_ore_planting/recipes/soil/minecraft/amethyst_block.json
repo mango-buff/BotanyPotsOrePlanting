@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:amethyst_block"
+  },
+  "display": {
+    "block": "minecraft:amethyst_block"
+  },
+  "categories": [
+    "amethyst"
+  ],
+  "growthModifier": 1
+}

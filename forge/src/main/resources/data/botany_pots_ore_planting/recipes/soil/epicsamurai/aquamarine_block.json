@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "epicsamurai:aquamarine_block"
+  },
+  "display": {
+    "block": "epicsamurai:aquamarine_block"
+  },
+  "categories": [
+    "aquamarine"
+  ],
+  "growthModifier": 1
+}

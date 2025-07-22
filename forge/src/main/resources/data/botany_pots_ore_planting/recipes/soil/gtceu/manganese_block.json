@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:manganese_block"
+  },
+  "display": {
+    "block": "gtceu:manganese_block"
+  },
+  "categories": [
+    "manganese"
+  ],
+  "growthModifier": 1
+}

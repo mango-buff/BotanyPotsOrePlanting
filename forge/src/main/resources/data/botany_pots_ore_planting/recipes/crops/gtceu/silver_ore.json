@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:silver_ingot"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:silver_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_silver"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

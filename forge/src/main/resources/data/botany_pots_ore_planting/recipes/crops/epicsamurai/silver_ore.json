@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "epicsamurai:silver_ingot"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "epicsamurai:silver_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "epicsamurai:raw_silver"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

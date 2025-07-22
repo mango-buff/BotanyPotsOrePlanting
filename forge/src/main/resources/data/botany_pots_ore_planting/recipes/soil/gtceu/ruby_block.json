@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:ruby_block"
+  },
+  "display": {
+    "block": "gtceu:ruby_block"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:salt_gem"
+  },
+  "categories": [
+    "salt"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:salt_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_salt"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

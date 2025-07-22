@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:red_garnet_block"
+  },
+  "display": {
+    "block": "gtceu:red_garnet_block"
+  },
+  "categories": [
+    "red_garnet"
+  ],
+  "growthModifier": 1
+}

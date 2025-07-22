@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:lazurite_gem"
+  },
+  "categories": [
+    "lazurite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:lazurite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_lazurite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

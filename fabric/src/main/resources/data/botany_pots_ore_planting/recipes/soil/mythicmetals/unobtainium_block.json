@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:unobtainium_block"
+  },
+  "display": {
+    "block": "mythicmetals:unobtainium_block"
+  },
+  "categories": [
+    "unobtainium"
+  ],
+  "growthModifier": 1
+}

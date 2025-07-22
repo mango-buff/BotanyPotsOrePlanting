@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:sodalite_block"
+  },
+  "display": {
+    "block": "gtceu:sodalite_block"
+  },
+  "categories": [
+    "sodalite"
+  ],
+  "growthModifier": 1
+}

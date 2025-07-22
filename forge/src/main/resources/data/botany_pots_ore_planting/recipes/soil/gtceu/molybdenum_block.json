@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:molybdenum_block"
+  },
+  "display": {
+    "block": "gtceu:molybdenum_block"
+  },
+  "categories": [
+    "molybdenum"
+  ],
+  "growthModifier": 1
+}

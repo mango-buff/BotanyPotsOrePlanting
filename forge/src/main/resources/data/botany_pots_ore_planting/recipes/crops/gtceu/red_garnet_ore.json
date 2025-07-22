@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:red_garnet_gem"
+  },
+  "categories": [
+    "red_garnet"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:red_garnet_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_red_garnet"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

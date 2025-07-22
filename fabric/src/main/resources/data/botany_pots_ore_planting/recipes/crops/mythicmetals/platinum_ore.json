@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mythicmetals:platinum_ingot"
+  },
+  "categories": [
+    "platinum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:platinum_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_platinum"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
