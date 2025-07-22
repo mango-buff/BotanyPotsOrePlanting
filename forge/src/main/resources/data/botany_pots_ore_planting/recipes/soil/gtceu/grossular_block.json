@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:grossular_block"
+  },
+  "display": {
+    "block": "gtceu:grossular_block"
+  },
+  "categories": [
+    "grossular"
+  ],
+  "growthModifier": 1
+}

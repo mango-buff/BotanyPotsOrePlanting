@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:adamantite_block"
+  },
+  "display": {
+    "block": "mythicmetals:adamantite_block"
+  },
+  "categories": [
+    "adamantite"
+  ],
+  "growthModifier": 1
+}

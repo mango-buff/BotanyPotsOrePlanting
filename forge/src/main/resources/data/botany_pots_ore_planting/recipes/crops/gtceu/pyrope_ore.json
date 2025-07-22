@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:pyrope_gem"
+  },
+  "categories": [
+    "pyrope"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:pyrope_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_pyrope"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

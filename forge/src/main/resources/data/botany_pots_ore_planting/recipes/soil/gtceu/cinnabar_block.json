@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:cinnabar_block"
+  },
+  "display": {
+    "block": "gtceu:cinnabar_block"
+  },
+  "categories": [
+    "cinnabar"
+  ],
+  "growthModifier": 1
+}

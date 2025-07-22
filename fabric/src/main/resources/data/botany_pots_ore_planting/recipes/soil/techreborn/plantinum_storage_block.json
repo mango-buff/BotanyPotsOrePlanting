@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "techreborn:plantinum_storage_block"
+  },
+  "display": {
+    "block": "techreborn:plantinum_storage_block"
+  },
+  "categories": [
+    "plantinum"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mythicmetals:stormyx_block"
+  },
+  "display": {
+    "block": "mythicmetals:stormyx_block"
+  },
+  "categories": [
+    "stormyx"
+  ],
+  "growthModifier": 1
+}

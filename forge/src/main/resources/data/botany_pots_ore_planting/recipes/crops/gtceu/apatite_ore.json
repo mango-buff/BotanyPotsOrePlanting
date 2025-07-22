@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:apatite_gem"
+  },
+  "categories": [
+    "apatite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:apatite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_apatite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

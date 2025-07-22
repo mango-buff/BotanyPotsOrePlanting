@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:nickel_block"
+  },
+  "display": {
+    "block": "gtceu:nickel_block"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthModifier": 1
+}
