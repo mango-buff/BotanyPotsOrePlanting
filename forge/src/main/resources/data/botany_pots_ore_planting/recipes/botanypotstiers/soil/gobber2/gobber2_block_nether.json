@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "gobber2:gobber2_block_nether"
+  },
+  "display": {
+    "block": "gobber2:gobber2_block_nether"
+  },
+  "categories": [
+    "gobber2_nether"
+  ],
+  "growthModifier": 1
+}

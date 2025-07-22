@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "modern_industrialization:bauxite_ingot"
+  },
+  "categories": [
+    "bauxite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "modern_industrialization:bauxite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "modern_industrialization:raw_bauxite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

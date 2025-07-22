@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:kyber_block"
+  },
+  "display": {
+    "block": "mythicmetals:kyber_block"
+  },
+  "categories": [
+    "kyber"
+  ],
+  "growthModifier": 1
+}

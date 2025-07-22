@@ -1,0 +1,31 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "techreborn:ruby_gem"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "techreborn:ruby_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "techreborn:ruby_gem"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "techreborn:red_garnet_gem"
+      },
+      "minRolls": 0,
+      "maxRolls": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "minecraft:glowstone"
+  },
+  "display": {
+    "block": "minecraft:glowstone"
+  },
+  "categories": [
+    "glowstone"
+  ],
+  "growthModifier": 1
+}

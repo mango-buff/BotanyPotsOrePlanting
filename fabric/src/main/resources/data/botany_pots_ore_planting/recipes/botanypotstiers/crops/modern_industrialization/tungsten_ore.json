@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "modern_industrialization:tungsten_ingot"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "modern_industrialization:tungsten_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "modern_industrialization:raw_tungsten"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

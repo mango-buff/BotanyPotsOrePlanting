@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "indrev:tungsten_block"
+  },
+  "display": {
+    "block": "indrev:tungsten_block"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthModifier": 1
+}

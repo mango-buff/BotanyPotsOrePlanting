@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:starrite_block"
+  },
+  "display": {
+    "block": "mythicmetals:starrite_block"
+  },
+  "categories": [
+    "starrite"
+  ],
+  "growthModifier": 1
+}

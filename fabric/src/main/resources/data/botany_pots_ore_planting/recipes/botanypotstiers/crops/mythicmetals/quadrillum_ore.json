@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mythicmetals:quadrillum_ingot"
+  },
+  "categories": [
+    "quadrillum"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:quadrillum_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_quadrillum"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

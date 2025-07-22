@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "indrev:lead_ingot"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "indrev:lead_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "indrev:raw_lead"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

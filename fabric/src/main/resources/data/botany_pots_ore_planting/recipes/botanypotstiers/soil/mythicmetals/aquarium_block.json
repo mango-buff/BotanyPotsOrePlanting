@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:aquarium_block"
+  },
+  "display": {
+    "block": "mythicmetals:aquarium_block"
+  },
+  "categories": [
+    "aquarium"
+  ],
+  "growthModifier": 1
+}

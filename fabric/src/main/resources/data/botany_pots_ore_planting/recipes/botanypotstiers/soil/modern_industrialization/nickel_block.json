@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "modern_industrialization:nickel_block"
+  },
+  "display": {
+    "block": "modern_industrialization:nickel_block"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthModifier": 1
+}

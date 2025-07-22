@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mythicmetals:silver_ingot"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:silver_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_silver"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:tin_block"
+  },
+  "display": {
+    "block": "mythicmetals:tin_block"
+  },
+  "categories": [
+    "tin"
+  ],
+  "growthModifier": 1
+}

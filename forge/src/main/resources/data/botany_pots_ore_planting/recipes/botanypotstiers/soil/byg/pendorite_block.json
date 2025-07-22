@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "byg:pendorite_block"
+  },
+  "display": {
+    "block": "byg:pendorite_block"
+  },
+  "categories": [
+    "pendorite"
+  ],
+  "growthModifier": 1
+}

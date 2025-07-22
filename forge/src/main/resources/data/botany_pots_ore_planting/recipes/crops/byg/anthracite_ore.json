@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "byg:anthracite"
+  },
+  "categories": [
+    "anthracite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "byg:anthracite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "byg:anthracite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "mythicmetals:osmium_ingot"
+  },
+  "categories": [
+    "osmium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mythicmetals:osmium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mythicmetals:raw_osmium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

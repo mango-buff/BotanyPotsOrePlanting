@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "minecraft:emerald_block"
+  },
+  "display": {
+    "block": "minecraft:emerald_block"
+  },
+  "categories": [
+    "emerald"
+  ],
+  "growthModifier": 1
+}

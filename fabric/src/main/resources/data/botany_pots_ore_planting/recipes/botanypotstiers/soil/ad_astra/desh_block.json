@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "ad_astra:desh_block"
+  },
+  "display": {
+    "block": "ad_astra:desh_block"
+  },
+  "categories": [
+    "desh"
+  ],
+  "growthModifier": 1
+}

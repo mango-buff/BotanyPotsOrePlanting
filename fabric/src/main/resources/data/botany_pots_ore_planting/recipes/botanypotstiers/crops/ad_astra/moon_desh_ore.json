@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "ad_astra:desh_ingot"
+  },
+  "categories": [
+    "desh"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ad_astra:moon_desh_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ad_astra:raw_desh"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

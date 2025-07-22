@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "techreborn:peridot_storage_block"
+  },
+  "display": {
+    "block": "techreborn:peridot_storage_block"
+  },
+  "categories": [
+    "peridot"
+  ],
+  "growthModifier": 1
+}

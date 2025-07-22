@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:prometheum_block"
+  },
+  "display": {
+    "block": "mythicmetals:prometheum_block"
+  },
+  "categories": [
+    "prometheum"
+  ],
+  "growthModifier": 1
+}

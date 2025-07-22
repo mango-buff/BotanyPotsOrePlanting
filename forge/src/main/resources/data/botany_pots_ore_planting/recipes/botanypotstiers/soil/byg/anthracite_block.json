@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "byg:anthracite_block"
+  },
+  "display": {
+    "block": "byg:anthracite_block"
+  },
+  "categories": [
+    "anthracite"
+  ],
+  "growthModifier": 1
+}

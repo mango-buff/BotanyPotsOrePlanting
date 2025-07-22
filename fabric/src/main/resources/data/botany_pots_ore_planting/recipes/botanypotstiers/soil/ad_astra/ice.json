@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minecraft:ice"
+  },
+  "display": {
+    "block": "minecraft:ice"
+  },
+  "categories": [
+    "moon_ice_shard"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:carmot_block"
+  },
+  "display": {
+    "block": "mythicmetals:carmot_block"
+  },
+  "categories": [
+    "carmot"
+  ],
+  "growthModifier": 1
+}

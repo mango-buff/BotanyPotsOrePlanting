@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "mythicmetals:osmium_block"
+  },
+  "display": {
+    "block": "mythicmetals:osmium_block"
+  },
+  "categories": [
+    "osmium"
+  ],
+  "growthModifier": 1
+}

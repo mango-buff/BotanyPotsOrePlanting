@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "modern_industrialization:uranium_block"
+  },
+  "display": {
+    "block": "modern_industrialization:uranium_block"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthModifier": 1
+}

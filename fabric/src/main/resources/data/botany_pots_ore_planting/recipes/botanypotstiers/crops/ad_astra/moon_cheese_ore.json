@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "ad_astra:cheese"
+  },
+  "categories": [
+    "cheese"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "ad_astra:moon_cheese_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "ad_astra:cheese"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
