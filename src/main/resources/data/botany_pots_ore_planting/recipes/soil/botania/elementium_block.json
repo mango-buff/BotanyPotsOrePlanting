@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "botania"
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "botania:elementium_block" 

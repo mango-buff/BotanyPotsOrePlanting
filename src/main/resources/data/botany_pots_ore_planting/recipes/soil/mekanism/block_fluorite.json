@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "mekanism"
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "mekanism:block_fluorite" 

@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "pixelmon"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "pixelmon:sapphire" 

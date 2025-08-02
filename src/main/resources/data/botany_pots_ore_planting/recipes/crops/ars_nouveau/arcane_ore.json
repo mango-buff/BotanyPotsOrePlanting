@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "ars_nouveau"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "ars_nouveau:mana_gem" 

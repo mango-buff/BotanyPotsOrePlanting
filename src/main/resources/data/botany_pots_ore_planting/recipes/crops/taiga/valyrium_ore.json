@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "taiga"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "taiga:valyrium_ingot" 

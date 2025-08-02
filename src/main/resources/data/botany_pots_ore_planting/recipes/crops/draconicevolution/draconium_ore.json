@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "draconicevolution"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "draconicevolution:draconium_ingot" 

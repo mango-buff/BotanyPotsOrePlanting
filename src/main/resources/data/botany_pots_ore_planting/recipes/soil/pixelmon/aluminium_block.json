@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "pixelmon"
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "pixelmon:aluminium_block"

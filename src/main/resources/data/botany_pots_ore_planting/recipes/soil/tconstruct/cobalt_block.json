@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "tconstruct"
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "tconstruct:cobalt_block"

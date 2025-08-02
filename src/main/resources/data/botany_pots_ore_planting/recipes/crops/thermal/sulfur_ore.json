@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "thermal"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "thermal:sulfur" 

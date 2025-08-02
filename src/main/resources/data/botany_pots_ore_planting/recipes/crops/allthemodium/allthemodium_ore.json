@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "allthemodium"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "allthemodium:allthemodium_ingot" 

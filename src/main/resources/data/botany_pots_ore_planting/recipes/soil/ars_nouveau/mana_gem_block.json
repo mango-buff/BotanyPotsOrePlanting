@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "ars_nouveau"
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "ars_nouveau:mana_gem_block" 

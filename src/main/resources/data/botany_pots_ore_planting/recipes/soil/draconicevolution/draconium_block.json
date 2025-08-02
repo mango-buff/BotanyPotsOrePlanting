@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "draconicevolution"
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "draconicevolution:draconium_block"

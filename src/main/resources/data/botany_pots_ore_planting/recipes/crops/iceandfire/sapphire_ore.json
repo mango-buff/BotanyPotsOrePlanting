@@ -1,4 +1,10 @@
 {
+  "conditions": [
+   {
+       "type": "forge:mod_loaded",
+       "modid": "iceandfire"
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "iceandfire:sapphire_gem"
