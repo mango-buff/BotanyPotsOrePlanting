@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot"
+      ]
+    }
+  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "minecraft:lapis_block"
