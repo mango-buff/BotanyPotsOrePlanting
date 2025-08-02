@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "gtceu:manganese_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "gtceu:manganese_block"

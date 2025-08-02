@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "silentgear:crimson_iron_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "silentgear:crimson_iron_block"

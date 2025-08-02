@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "allthemodium:unobtainium_ore"
+     ]
+   }
+  ],
     "type": "botanypots:crop",
     "seed": {
       "item": "allthemodium:unobtainium_ingot"

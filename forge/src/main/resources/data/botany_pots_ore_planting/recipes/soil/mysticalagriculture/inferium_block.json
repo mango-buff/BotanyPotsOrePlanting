@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "mysticalagriculture:inferium_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "mysticalagriculture:inferium_block"

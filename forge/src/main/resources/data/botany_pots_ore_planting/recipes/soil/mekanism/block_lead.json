@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "mekanism:block_lead"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "mekanism:block_lead"

@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "techreborn:plantinum_storage_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "techreborn:plantinum_storage_block"

@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "mythicmetals:tin_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "mythicmetals:tin_block"

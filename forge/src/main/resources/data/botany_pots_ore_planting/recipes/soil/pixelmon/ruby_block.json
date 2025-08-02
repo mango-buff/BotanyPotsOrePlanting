@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "pixelmon:ruby_block"
+     ]
+   }
+  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "pixelmon:ruby_block"

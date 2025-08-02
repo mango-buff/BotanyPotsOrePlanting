@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "pixelmon:aluminium_block"
+     ]
+   }
+  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "pixelmon:aluminium_block"
