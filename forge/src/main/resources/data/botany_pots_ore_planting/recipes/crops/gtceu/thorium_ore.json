@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "gtceu:thorium_ore"
+     ]
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "gtceu:thorium_ingot"

@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "byg:pendorite_ore"
+     ]
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "byg:pendorite_ingot"

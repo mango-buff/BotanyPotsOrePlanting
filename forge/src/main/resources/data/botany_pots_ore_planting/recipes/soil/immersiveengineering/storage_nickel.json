@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "immersiveengineering:storage_nickel"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "immersiveengineering:storage_nickel"

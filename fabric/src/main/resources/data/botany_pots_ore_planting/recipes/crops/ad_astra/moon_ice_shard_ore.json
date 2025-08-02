@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "ad_astra:moon_ice_shard_ore"
+     ]
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "ad_astra:ice_shard"

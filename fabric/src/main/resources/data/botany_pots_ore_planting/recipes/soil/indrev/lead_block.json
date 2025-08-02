@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "indrev:lead_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "indrev:lead_block"

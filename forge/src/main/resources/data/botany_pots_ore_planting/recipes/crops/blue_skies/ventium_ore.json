@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "blue_skies:ventium_ore"
+     ]
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "blue_skies:ventium_ingot"

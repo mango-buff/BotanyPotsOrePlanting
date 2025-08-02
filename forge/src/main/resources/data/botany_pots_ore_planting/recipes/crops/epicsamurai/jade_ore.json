@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "epicsamurai:jade_ore"
+     ]
+   }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "epicsamurai:jade"

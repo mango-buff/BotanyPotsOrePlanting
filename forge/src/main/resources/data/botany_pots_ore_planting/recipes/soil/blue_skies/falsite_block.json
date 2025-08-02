@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "blue_skies:falsite_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "blue_skies:falsite_block"
