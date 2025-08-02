@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "tinkers_reforged:aluminum_ore"
+      ]
+    }
+  ],
   "type": "botanypotstiers:crop",
   "seed": {
     "item": "tinkers_reforged:aluminum_ingot"

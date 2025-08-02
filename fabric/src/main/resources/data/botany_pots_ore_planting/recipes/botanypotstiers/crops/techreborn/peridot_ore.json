@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "techreborn:peridot_ore"
+      ]
+    }
+  ],
   "type": "botanypotstiers:crop",
   "seed": {
     "item": "techreborn:peridot_gem"

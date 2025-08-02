@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "forbidden_arcanus:arcane_crystal_ore"
+      ]
+    }
+  ],
   "type": "botanypotstiers:crop",
   "seed": {
     "item": "forbidden_arcanus:arcane_crystal"

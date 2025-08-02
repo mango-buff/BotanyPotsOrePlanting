@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "modern_industrialization:tungsten_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "modern_industrialization:tungsten_block"

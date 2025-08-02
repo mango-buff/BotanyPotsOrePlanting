@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "thermal:lead_ore"
+      ]
+    }
+  ],
   "type": "botanypotstiers:crop",
   "seed": {
     "item": "thermal:lead_ingot"

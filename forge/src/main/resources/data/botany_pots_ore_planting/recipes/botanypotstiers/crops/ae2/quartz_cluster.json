@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "ae2:quartz_cluster"
+      ]
+    }
+  ],
   "type": "botanypotstiers:crop",
   "seed": {
     "item": "ae2:certus_quartz_crystal"

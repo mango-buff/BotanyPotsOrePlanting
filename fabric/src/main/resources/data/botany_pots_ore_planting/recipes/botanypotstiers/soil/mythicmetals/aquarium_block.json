@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "mythicmetals:aquarium_block"
+      ]
+    }
+  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "mythicmetals:aquarium_block"

@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "blue_skies:everbright_diopside_ore"
+      ]
+    }
+  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "blue_skies:diopside_gem"

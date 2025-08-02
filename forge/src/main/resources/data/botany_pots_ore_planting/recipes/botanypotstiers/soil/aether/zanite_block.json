@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "aether:zanite_block"
+      ]
+    }
+  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "aether:zanite_block"

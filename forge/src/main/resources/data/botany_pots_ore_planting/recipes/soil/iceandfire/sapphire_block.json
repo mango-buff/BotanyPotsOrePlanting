@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "iceandfire:sapphire_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "iceandfire:sapphire_block"

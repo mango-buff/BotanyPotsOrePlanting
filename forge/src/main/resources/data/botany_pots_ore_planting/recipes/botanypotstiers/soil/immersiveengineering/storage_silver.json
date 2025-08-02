@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "immersiveengineering:storage_silver"
+      ]
+    }
+  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "immersiveengineering:storage_silver"

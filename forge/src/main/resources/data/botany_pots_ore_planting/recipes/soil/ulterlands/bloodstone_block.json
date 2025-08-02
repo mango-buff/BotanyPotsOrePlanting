@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "ulterlands:bloodstone_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "ulterlands:bloodstone_block"

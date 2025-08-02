@@ -1,4 +1,13 @@
 {
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "botanypotstiers:elite_botany_pot",
+        "minecraft:ice"
+      ]
+    }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "minecraft:ice"

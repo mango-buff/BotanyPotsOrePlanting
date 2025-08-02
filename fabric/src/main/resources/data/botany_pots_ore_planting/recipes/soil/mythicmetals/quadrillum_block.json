@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "mythicmetals:quadrillum_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "mythicmetals:quadrillum_block"

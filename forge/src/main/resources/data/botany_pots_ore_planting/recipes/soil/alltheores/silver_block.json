@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "alltheores:silver_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "alltheores:silver_block"

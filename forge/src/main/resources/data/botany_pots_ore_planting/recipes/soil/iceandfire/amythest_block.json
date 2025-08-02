@@ -1,4 +1,12 @@
 {
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "iceandfire:amythest_block"
+     ]
+   }
+  ],
   "type": "botanypots:soil",
   "input": {
     "item": "iceandfire:amythest_block"
