@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "pixelmon:aluminium_ingot"
+  },
+  "categories": [
+    "aluminium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "pixelmon:bauxite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "pixelmon:bauxite_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "pixelmon:crystal"
+  },
+  "categories": [
+    "crystal"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "pixelmon:crystal_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "pixelmon:crystal"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

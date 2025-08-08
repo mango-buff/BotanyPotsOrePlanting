@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:salt_block"
+  },
+  "display": {
+    "block": "gtceu:salt_block"
+  },
+  "categories": [
+    "salt"
+  ],
+  "growthModifier": 1
+}

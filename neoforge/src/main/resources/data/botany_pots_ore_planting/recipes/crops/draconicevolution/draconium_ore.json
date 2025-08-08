@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "draconicevolution:draconium_ingot"
+  },
+  "categories": [
+    "draconium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "draconicevolution:overworld_draconium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "draconicevolution:draconium_dust"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

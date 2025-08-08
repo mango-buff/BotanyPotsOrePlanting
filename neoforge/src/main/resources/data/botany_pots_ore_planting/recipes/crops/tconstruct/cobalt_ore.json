@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tconstruct:cobalt_ingot"
+  },
+  "categories": [
+    "cobalt"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tconstruct:cobalt_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tconstruct:raw_cobalt"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "gtceu:topaz_gem"
+  },
+  "categories": [
+    "topaz"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "gtceu:topaz_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "gtceu:raw_topaz"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

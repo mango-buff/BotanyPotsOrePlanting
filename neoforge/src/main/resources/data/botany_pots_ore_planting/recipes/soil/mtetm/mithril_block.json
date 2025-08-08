@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mtetm:mithril_block"
+  },
+  "display": {
+    "block": "mtetm:mithril_block"
+  },
+  "categories": [
+    "mithril"
+  ],
+  "growthModifier": 1
+}

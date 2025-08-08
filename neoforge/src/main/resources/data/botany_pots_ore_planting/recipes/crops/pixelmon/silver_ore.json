@@ -1,0 +1,23 @@
+{
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "pixelmon:silver_ingot"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "pixelmon:silver_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "pixelmon:silver_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

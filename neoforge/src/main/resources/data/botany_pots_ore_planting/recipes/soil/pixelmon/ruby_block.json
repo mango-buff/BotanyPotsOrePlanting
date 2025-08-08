@@ -1,0 +1,13 @@
+{
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "pixelmon:ruby_block"
+  },
+  "display": {
+    "block": "pixelmon:ruby_block"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthModifier": 1
+}

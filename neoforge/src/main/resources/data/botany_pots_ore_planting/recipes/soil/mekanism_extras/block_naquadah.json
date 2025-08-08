@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism_extras:block_naquadah"
+  },
+  "display": {
+    "block": "mekanism_extras:block_naquadah"
+  },
+  "categories": [
+    "naquadah"
+  ],
+  "growthModifier": 1
+}

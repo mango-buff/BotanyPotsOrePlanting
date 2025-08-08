@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:apatite_block"
+  },
+  "display": {
+    "block": "gtceu:apatite_block"
+  },
+  "categories": [
+    "apatite"
+  ],
+  "growthModifier": 1
+}

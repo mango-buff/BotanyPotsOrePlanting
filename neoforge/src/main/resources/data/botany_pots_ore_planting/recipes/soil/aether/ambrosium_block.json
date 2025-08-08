@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "aether:ambrosium_block"
+  },
+  "display": {
+    "block": "aether:ambrosium_block"
+  },
+  "categories": [
+    "ambrosium"
+  ],
+  "growthModifier": 1
+}

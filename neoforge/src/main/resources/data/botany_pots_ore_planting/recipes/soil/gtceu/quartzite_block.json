@@ -1,0 +1,13 @@
+{
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gtceu:quartzite_block"
+  },
+  "display": {
+    "block": "gtceu:quartzite_block"
+  },
+  "categories": [
+    "quartzite"
+  ],
+  "growthModifier": 1
+}

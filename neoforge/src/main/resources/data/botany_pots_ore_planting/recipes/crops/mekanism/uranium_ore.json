@@ -1,0 +1,23 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "mekanism:ingot_uranium"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "mekanism:uranium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "mekanism:raw_uranium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
