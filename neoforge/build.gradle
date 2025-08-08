@@ -1,0 +1,50 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.106'
+}
+
+version = "NeoForge-${neoforge_mod_version}+${mc_version}"
+archivesBaseName = 'BotanyPotsOrePlanting'
+
+neoForge {
+    version = project.neoforge_version
+
+    runs {
+        client {
+            client()
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'botany_pots_ore_planting'
+        }
+        server {
+            server()
+            systemProperty 'neoforge.enabledGameTestNamespaces', 'botany_pots_ore_planting'
+        }
+        data {
+            data()
+            programArguments.addAll '--mod', 'botany_pots_ore_planting', '--all',
+                    '--output', file('src/generated/resources/').getAbsolutePath(),
+                    '--existing', file('src/main/resources/').getAbsolutePath()
+        }
+    }
+
+    mods {
+        botany_pots_ore_planting {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+dependencies {
+    implementation project(':common')
+}
+
+processResources {
+    from project(":common").sourceSets.main.resources
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+
+    inputs.property "neoforge_mod_version", neoforge_mod_version
+    filesMatching('META-INF/neoforge.mods.toml') {
+        expand "neoforge_mod_version": neoforge_mod_version
+    }
+}
+
+sourceSets.main.resources.srcDir 'src/generated/resources'

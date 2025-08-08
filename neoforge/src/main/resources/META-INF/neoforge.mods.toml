@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[47,)"
+loaderVersion="[4,)"
 license="MIT License"
 
 [[mods]]
 modId="botany_pots_ore_planting"
-version="${forge_mod_version}"
+version="${neoforge_mod_version}"
 displayName="Botany Pots Ore Planting"
 logoFile = "logo.png"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/botany-pots-ore-planting"
@@ -15,21 +15,21 @@ This is a mod that can grow ore.
 
 [[dependencies.botany_pots_ore_planting]]
 modId="minecraft"
-mandatory=true
-versionRange="[1.20,)"
+type="required"
+versionRange="[1.21.1]"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.botany_pots_ore_planting]]
 modId="botanypots"
-mandatory=true
-versionRange="[13,)"
+type="required"
+versionRange="[21,)"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.botany_pots_ore_planting]]
 modId="bookshelf"
-mandatory=true
-versionRange="[20,)"
+type="required"
+versionRange="[21.1,)"
 ordering="NONE"
 side="BOTH"
