@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "pixelmon:ruby_ore"
-     ]
-   }
-  ],
   "type": "botanypotstiers:crop",
   "seed": {
     "item": "pixelmon:ruby"

@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "create:zinc_ore"
-     ]
-   }
-  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "create:zinc_ingot"

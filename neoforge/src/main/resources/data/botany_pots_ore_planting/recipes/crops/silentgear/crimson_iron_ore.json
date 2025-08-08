@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "silentgear:crimson_iron_ore"
-     ]
-   }
-  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "silentgear:crimson_iron_ingot"

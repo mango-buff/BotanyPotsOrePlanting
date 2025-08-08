@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "gtceu:salt_ore"
-     ]
-   }
-  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "gtceu:salt_gem"

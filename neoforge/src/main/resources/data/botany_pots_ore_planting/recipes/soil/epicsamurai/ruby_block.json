@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "epicsamurai:ruby_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "epicsamurai:ruby_block"

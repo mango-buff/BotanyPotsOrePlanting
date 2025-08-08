@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "thermal:lead_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "thermal:lead_block"

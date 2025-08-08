@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "nuclearcraft:magnesium_ore"
-     ]
-   }
-  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "nuclearcraft:magnesium_ingot"

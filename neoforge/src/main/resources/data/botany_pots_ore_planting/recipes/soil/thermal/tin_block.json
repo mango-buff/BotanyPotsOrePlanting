@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "thermal:tin_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "thermal:tin_block"

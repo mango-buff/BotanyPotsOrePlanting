@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "pixelmon:amethyst_block"
-     ]
-   }
-  ],
   "type": "botanypotstiers:soil",
   "input": {
     "item": "pixelmon:amethyst_block"

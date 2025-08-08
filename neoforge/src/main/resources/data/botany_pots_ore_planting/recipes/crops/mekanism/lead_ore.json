@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "mekanism:lead_ore"
-     ]
-   }
-  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "mekanism:ingot_lead"

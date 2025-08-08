@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "silentgear:azure_silver_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "silentgear:azure_silver_block"

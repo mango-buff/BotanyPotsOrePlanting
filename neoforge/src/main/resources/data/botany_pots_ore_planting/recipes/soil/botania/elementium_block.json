@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "botania:elementium_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "botania:elementium_block"

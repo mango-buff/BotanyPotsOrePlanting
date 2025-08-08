@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "epicsamurai:silver_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "epicsamurai:silver_block"

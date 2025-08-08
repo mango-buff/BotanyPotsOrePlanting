@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "gtceu:cinnabar_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "gtceu:cinnabar_block"

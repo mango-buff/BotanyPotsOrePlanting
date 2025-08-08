@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "nuclearcraft:zinc_block"
-     ]
-   }
-  ],
   "type": "botanypots:soil",
   "input": {
     "item": "nuclearcraft:zinc_block"

@@ -1,12 +1,4 @@
 {
-  "bookshelf:load_conditions": [
-   {
-     "type": "bookshelf:item_exists",
-     "values": [
-       "gobber2:gobber2_ore_nether"
-     ]
-   }
-  ],
   "type": "botanypots:crop",
   "seed": {
     "item": "gobber2:gobber2_glob_nether"
