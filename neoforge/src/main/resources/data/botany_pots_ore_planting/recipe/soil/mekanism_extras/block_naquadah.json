@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "mekanism_extras:block_naquadah"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "mekanism_extras:block_naquadah"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "mekanism_extras:block_naquadah"
+    }
+  },
+  "growth_modifier": 0.0
+}

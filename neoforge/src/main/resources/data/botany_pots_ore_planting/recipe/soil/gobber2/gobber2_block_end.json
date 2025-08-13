@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "gobber2:gobber2_block_end"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "gobber2:gobber2_block_end"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "gobber2:gobber2_block_end"
+    }
+  },
+  "growth_modifier": 0.0
+}

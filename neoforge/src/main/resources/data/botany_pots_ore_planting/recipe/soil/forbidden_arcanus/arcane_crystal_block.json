@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "forbidden_arcanus:arcane_crystal_block"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "forbidden_arcanus:arcane_crystal_block"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "forbidden_arcanus:arcane_crystal_block"
+    }
+  },
+  "growth_modifier": 0.0
+}

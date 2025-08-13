@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "alltheores:aluminum_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_aluminum",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "alltheores:zinc_block",
+      "required": false
+    },
+    {
+      "id": "create:zinc_block",
+      "required": false
+    },
+    {
+      "id": "nuclearcraft:zinc_block",
+      "required": false
+    }
+  ]
+}

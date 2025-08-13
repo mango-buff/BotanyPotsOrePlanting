@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "immersiveengineering:storage_nickel"
+      ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "immersiveengineering:storage_nickel"
+  },
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "immersiveengineering:storage_nickel"
+    }
+  },
+  "growth_modifier": 0.0
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "gtceu:sapphire_block",
+      "required": false
+    },
+    {
+      "id": "pixelmon:sapphire_block",
+      "required": false
+    },
+    {
+      "id": "iceandfire:sapphire_block",
+      "required": false
+    },
+    {
+      "id": "alltheores:sapphire_block",
+      "required": false
+    }
+  ]
+}

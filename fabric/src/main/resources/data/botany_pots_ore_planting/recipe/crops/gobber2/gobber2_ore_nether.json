@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "gobber2:gobber2_ore_nether"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "gobber2:gobber2_glob_nether"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/gobber2_nether"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "gobber2:gobber2_ore_nether"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "gobber2:gobber2_glob_nether"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

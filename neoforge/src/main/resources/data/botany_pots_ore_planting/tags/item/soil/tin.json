@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "gtceu:tin_block",
+      "required": false
+    },
+    {
+      "id": "nuclearcraft:tin_block",
+      "required": false
+    },
+    {
+      "id": "thermal:tin_block",
+      "required": false
+    },
+    {
+      "id": "alltheores:tin_block",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_tin",
+      "required": false
+    }
+  ]
+}
