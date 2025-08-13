@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "modern_industrialization:nickel_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:nickel_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "modern_industrialization:tungsten_block",
+      "required": false
+    },
+    {
+      "id": "techreborn:tungsten_storage_block",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "immersiveengineering:storage_uranium",
+      "required": false
+    },
+    {
+      "id": "nuclearcraft:uranium_block",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_uranium",
+      "required": false
+    },
+    {
+      "id": "alltheores:uranium_block",
+      "required": false
+    }
+  ]
+}

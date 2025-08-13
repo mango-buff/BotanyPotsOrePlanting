@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "thermal:sulfur_block",
+      "required": false
+    }
+  ]
+}

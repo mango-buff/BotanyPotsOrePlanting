@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "techreborn:iridium_storage_block",
+      "required": false
+    },
+    {
+      "id": "modern_industrialization:iridium_block",
+      "required": false
+    }
+  ]
+}

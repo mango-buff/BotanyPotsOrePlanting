@@ -1,0 +1,31 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:quartz"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/nether_quartz"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "minecraft:nether_quartz_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:quartz"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

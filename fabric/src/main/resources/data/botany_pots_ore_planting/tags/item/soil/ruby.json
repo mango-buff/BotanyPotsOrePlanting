@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "gtceu:ruby_block",
+      "required": false
+    },
+    {
+      "id": "epicsamurai:ruby_block",
+      "required": false
+    },
+    {
+      "id": "techreborn:ruby_storage_block",
+      "required": false
+    }
+  ]
+}

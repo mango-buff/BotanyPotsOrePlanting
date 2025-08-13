@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "immersiveengineering:ore_lead"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "immersiveengineering:ingot_lead"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/lead"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "immersiveengineering:ore_lead"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "immersiveengineering:raw_lead"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

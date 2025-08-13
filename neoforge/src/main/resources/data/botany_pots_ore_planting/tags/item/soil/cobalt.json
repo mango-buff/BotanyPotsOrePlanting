@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "nuclearcraft:cobalt_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:cobalt_block",
+      "required": false
+    },
+    {
+      "id": "tconstruct:cobalt_block",
+      "required": false
+    }
+  ]
+}

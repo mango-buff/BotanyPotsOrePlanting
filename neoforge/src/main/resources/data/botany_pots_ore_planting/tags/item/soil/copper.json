@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:copper_block",
+    {
+      "id": "alltheores:copper_block",
+      "required": false
+    }
+  ]
+}

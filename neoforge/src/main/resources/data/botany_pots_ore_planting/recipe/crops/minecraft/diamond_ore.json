@@ -1,0 +1,31 @@
+{
+  "type": "botanypots:crop",
+  "input": {
+    "item": "minecraft:diamond"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/diamond"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "minecraft:diamond_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "minecraft:diamond"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "id": "nuclearcraft:lead_block",
+      "required": false
+    },
+    {
+      "id": "thermal:lead_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:lead_block",
+      "required": false
+    },
+    {
+      "id": "immersiveengineering:storage_lead",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_lead",
+      "required": false
+    },
+    {
+      "id": "alltheores:lead_block",
+      "required": false
+    }
+  ]
+}

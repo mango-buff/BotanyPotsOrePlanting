@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "ae2:quartz_cluster"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/certus_quartz"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "ae2:quartz_cluster"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "ae2:certus_quartz_crystal"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

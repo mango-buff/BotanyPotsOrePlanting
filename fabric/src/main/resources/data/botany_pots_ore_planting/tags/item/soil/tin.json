@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "modern_industrialization:tin_block",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:tin_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:tin_block",
+      "required": false
+    },
+    {
+      "id": "techreborn:tin_storage_block",
+      "required": false
+    }
+  ]
+}

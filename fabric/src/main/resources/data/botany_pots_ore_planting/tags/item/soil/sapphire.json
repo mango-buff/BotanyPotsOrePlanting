@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "gtceu:sapphire_block",
+      "required": false
+    },
+    {
+      "id": "techreborn:sapphire_storage_block",
+      "required": false
+    }
+  ]
+}

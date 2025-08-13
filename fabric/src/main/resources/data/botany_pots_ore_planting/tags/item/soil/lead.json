@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "modern_industrialization:lead_block",
+      "required": false
+    },
+    {
+      "id": "techreborn:lead_storage_block",
+      "required": false
+    },
+    {
+      "id": "gtceu:lead_block",
+      "required": false
+    }
+  ]
+}

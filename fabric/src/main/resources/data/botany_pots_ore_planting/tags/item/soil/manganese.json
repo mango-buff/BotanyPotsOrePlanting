@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "gtceu:manganese_block",
+      "required": false
+    },
+    {
+      "id": "mythicmetals:manganese_block",
+      "required": false
+    }
+  ]
+}
