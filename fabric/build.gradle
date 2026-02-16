@@ -6,6 +6,10 @@ plugins {
 version = "Fabric-${fabric_mod_version}+${mc_version}"
 archivesBaseName = 'BotanyPotsOrePlanting'
 
+sourceSets.main.resources {
+    srcDirs += project(':common').sourceSets.main.resources.srcDirs
+}
+
 dependencies {
     minecraft "com.mojang:minecraft:${mc_version}"
     mappings "net.fabricmc:yarn:${yarn_mappings}:v2"
@@ -16,9 +20,6 @@ dependencies {
 }
 
 processResources {
-    from project(":common").sourceSets.main.resources
-    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-
     inputs.property "fabric_mod_version", fabric_mod_version
     filesMatching("fabric.mod.json") {
         expand "fabric_mod_version": fabric_mod_version

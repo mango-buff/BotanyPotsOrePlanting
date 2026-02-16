@@ -60,6 +60,7 @@ minecraft {
 
 sourceSets.main.resources {
     srcDir 'src/generated/resources'
+    srcDirs += project(':common').sourceSets.main.resources.srcDirs
 }
 
 dependencies {
@@ -68,9 +69,6 @@ dependencies {
 }
 
 processResources {
-    from project(":common").sourceSets.main.resources
-    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-
     inputs.property "forge_mod_version", forge_mod_version
     filesMatching('META-INF/mods.toml') {
         expand "forge_mod_version": forge_mod_version
