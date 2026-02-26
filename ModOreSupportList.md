@@ -19,7 +19,7 @@
 + **[Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)**
 + **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
 + **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
@@ -71,7 +71,7 @@
 + **[Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)**
 + **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)**
 + **[Ulterlands: Worlds Apart](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)**
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
 
@@ -97,7 +97,7 @@
 + **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)**
 + **[Ulterlands: Worlds Apart](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
 + **[Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)**
 + **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
@@ -125,7 +125,7 @@
 + **[Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)**
 + **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
++ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
 + **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
