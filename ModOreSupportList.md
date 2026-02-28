@@ -25,6 +25,12 @@
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
 + **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
 + **[Pixelmon](https://www.curseforge.com/minecraft/mc-mods/pixelmon)**
++ **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
++ **[Superb Warfare](https://www.curseforge.com/minecraft/mc-mods/superb-warfare)**
++ **[Create Nuclear](https://www.curseforge.com/minecraft/mc-mods/createnuclear)**
++ **[Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)**
++ **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)**
 
 # Forge
 ## Minecraft 1.16.5
@@ -74,6 +80,10 @@
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)**
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
++ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
++ **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
++ **[Tinkers' Thinking](https://www.curseforge.com/minecraft/mc-mods/tinkers-thinking)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
 
 ## Minecraft 1.19.2
 + **[Minecraft](https://www.minecraft.net/)**
@@ -103,6 +113,11 @@
 + **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
 + **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
++ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
++ **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
++ **[Tinkers' Thinking](https://www.curseforge.com/minecraft/mc-mods/tinkers-thinking)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
++ **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)**
 
 ## Minecraft 1.20.1
 + **[Minecraft](https://www.minecraft.net/)**
@@ -131,6 +146,14 @@
 + **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
 + **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
 + **[Pixelmon](https://www.curseforge.com/minecraft/mc-mods/pixelmon)**
++ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
++ **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
++ **[Tinkers' Thinking](https://www.curseforge.com/minecraft/mc-mods/tinkers-thinking)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
++ **[Superb Warfare](https://www.curseforge.com/minecraft/mc-mods/superb-warfare)**
++ **[Create Nuclear](https://www.curseforge.com/minecraft/mc-mods/createnuclear)**
++ **[Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)**
++ **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)**
 
 # Fabric
 ## Minecraft 1.18.2
@@ -146,6 +169,8 @@
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
 + **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
++ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
 
 ## Minecraft 1.19.2
 + **[Minecraft](https://www.minecraft.net/)**
@@ -160,6 +185,8 @@
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
 + **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
++ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
 
 ## Minecraft 1.20.1
 + **[Minecraft](https://www.minecraft.net/)**
@@ -175,6 +202,8 @@
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
++ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
 
 ## Minecraft 1.21.1
 + **[Minecraft](https://www.minecraft.net/)**
@@ -189,3 +218,5 @@
 + **[Samurai Dynasty](https://www.curseforge.com/minecraft/mc-mods/epic-samurais-fabric)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
 + **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
++ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
++ **[Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)**
