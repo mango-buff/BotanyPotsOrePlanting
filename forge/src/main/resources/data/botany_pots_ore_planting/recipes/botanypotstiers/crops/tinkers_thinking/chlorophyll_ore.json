@@ -23,7 +23,15 @@
     {
       "chance": 1.00,
       "output": {
-        "item": "tinkers_thinking:chlorophyll_a chlorophyll_b"
+        "item": "tinkers_thinking:chlorophyll_a"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    },
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tinkers_thinking:chlorophyll_b"
       },
       "minRolls": 2,
       "maxRolls": 3
