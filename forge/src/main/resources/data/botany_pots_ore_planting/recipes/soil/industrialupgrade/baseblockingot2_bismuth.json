@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot2/bismuth"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot2/bismuth"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot2/bismuth"
+  },
+  "categories": [
+    "bismuth"
+  ],
+  "growthModifier": 1
+}

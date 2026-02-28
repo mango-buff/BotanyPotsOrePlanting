@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockprecious/mithril_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:blockprecious/mithril_block"
+  },
+  "display": {
+    "block": "industrialupgrade:blockprecious/mithril_block"
+  },
+  "categories": [
+    "mithril"
+  ],
+  "growthModifier": 1
+}

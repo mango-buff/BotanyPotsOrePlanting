@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "evilcraft:dark_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "evilcraft:dark_block"
+  },
+  "display": {
+    "block": "evilcraft:dark_block"
+  },
+  "categories": [
+    "dark"
+  ],
+  "growthModifier": 1
+}

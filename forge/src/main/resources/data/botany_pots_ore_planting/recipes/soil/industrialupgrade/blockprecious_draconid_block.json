@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockprecious/draconid_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:blockprecious/draconid_block"
+  },
+  "display": {
+    "block": "industrialupgrade:blockprecious/draconid_block"
+  },
+  "categories": [
+    "draconid"
+  ],
+  "growthModifier": 1
+}

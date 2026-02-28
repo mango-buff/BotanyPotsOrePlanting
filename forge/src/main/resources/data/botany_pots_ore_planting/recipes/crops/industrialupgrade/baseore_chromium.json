@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore/chromium"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:itemingots/chromium_ingot"
+  },
+  "categories": [
+    "chromium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:baseore/chromium"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:raw_metals/raw_chromium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

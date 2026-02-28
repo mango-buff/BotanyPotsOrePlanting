@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore/tungsten"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:itemingots/tungsten_ingot"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:baseore/tungsten"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:raw_metals/raw_tungsten"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

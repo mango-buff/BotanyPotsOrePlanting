@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot2/barium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot2/barium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot2/barium"
+  },
+  "categories": [
+    "barium"
+  ],
+  "growthModifier": 1
+}

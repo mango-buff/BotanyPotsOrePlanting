@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockprecious/ruby_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:blockprecious/ruby_block"
+  },
+  "display": {
+    "block": "industrialupgrade:blockprecious/ruby_block"
+  },
+  "categories": [
+    "ruby"
+  ],
+  "growthModifier": 1
+}

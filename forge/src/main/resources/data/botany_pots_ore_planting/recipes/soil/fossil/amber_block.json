@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "fossil:amber_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "fossil:amber_block"
+  },
+  "display": {
+    "block": "fossil:amber_block"
+  },
+  "categories": [
+    "amber"
+  ],
+  "growthModifier": 1
+}

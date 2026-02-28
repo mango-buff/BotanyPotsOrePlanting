@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockresource/lead_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:blockresource/lead_block"
+  },
+  "display": {
+    "block": "industrialupgrade:blockresource/lead_block"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthModifier": 1
+}

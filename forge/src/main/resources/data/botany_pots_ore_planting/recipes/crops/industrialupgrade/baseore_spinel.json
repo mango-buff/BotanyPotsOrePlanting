@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore/spinel"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:itemingots/spinel_ingot"
+  },
+  "categories": [
+    "spinel"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:baseore/spinel"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:raw_metals/raw_spinel"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

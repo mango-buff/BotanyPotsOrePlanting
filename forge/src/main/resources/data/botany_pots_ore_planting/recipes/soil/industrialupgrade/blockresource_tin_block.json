@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockresource/tin_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:blockresource/tin_block"
+  },
+  "display": {
+    "block": "industrialupgrade:blockresource/tin_block"
+  },
+  "categories": [
+    "tin"
+  ],
+  "growthModifier": 1
+}

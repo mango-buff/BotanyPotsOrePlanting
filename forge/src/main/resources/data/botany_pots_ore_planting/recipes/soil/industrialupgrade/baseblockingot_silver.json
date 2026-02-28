@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/silver"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/silver"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/silver"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthModifier": 1
+}

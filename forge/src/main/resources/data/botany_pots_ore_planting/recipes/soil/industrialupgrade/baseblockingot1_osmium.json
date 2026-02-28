@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot1/osmium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot1/osmium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot1/osmium"
+  },
+  "categories": [
+    "osmium"
+  ],
+  "growthModifier": 1
+}
