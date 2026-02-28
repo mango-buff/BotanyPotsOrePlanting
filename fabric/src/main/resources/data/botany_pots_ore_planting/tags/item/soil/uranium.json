@@ -3,6 +3,10 @@
     {
       "id": "modern_industrialization:uranium_block",
       "required": false
+    },
+    {
+      "id": "oritech:uranium_dust_block",
+      "required": false
     }
   ]
 }

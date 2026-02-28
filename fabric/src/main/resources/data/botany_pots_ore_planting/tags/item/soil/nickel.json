@@ -7,6 +7,10 @@
     {
       "id": "gtceu:nickel_block",
       "required": false
+    },
+    {
+      "id": "oritech:nickel_block",
+      "required": false
     }
   ]
 }
