@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "oritech:deepslate_uranium_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "oritech:uranium_gem"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/uranium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "oritech:deepslate_uranium_ore"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "oritech:raw_uranium"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

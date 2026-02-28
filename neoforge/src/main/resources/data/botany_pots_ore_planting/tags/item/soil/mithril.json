@@ -3,6 +3,10 @@
     {
       "id": "mtetm:mithril_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:blockprecious/mithril_block",
+      "required": false
     }
   ]
 }

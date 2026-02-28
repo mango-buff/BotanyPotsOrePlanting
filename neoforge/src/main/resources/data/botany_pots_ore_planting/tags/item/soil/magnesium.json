@@ -3,6 +3,10 @@
     {
       "id": "nuclearcraft:magnesium_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot/magnesium",
+      "required": false
     }
   ]
 }

@@ -23,6 +23,18 @@
     {
       "id": "alltheores:lead_block",
       "required": false
+    },
+    {
+      "id": "superbwarfare:lead_block",
+      "required": false
+    },
+    {
+      "id": "createnuclear:lead_block",
+      "required": false
+    },
+    {
+      "id": "industrialupgrade:blockresource/lead_block",
+      "required": false
     }
   ]
 }

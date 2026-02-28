@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore2/bismuth"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "industrialupgrade:itemingots/bismuth"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/bismuth"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "industrialupgrade:baseore2/bismuth"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "industrialupgrade:raw_metals/raw_bismuth"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

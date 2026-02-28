@@ -7,6 +7,10 @@
     {
       "id": "alltheores:osmium_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot1/osmium",
+      "required": false
     }
   ]
 }

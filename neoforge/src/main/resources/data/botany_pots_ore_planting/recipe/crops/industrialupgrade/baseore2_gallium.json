@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore2/gallium"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "industrialupgrade:itemingots/gallium"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/gallium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "industrialupgrade:baseore2/gallium"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "industrialupgrade:raw_metals/raw_gallium"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

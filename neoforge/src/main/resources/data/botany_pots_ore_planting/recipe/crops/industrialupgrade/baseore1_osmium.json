@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore1/osmium"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "industrialupgrade:itemingots/osmium"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/osmium"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "industrialupgrade:baseore1/osmium"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "industrialupgrade:raw_metals/raw_osmium"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

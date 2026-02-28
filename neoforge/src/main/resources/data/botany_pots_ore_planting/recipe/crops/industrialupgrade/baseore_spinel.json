@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore/spinel"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "industrialupgrade:itemingots/spinel_ingot"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/spinel"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "industrialupgrade:baseore/spinel"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "industrialupgrade:raw_metals/raw_spinel"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

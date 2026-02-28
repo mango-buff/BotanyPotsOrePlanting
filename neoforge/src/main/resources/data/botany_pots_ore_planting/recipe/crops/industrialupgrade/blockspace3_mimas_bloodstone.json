@@ -1,0 +1,39 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockspace3/mimas_bloodstone"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "input": {
+    "item": "industrialupgrade:itemingots/bloodstone"
+  },
+  "soil": {
+    "tag": "botany_pots_ore_planting:soil/bloodstone"
+  },
+  "grow_time": 1200,
+  "display": {
+    "type": "botanypots:simple",
+    "block_state": {
+      "block": "industrialupgrade:blockspace3/mimas_bloodstone"
+    }
+  },
+  "drops": [
+    {
+      "type": "botanypots:items",
+      "items": [
+        {
+          "result": {
+            "id": "industrialupgrade:blockspace3/mimas_bloodstone"
+          },
+          "chance": 1.0
+        }
+      ]
+    }
+  ],
+  "yield": 2.5,
+  "yield_scale": 1.0
+}

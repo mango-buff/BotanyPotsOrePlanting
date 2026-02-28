@@ -19,6 +19,10 @@
     {
       "id": "mekanism:block_tin",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:blockresource/tin_block",
+      "required": false
     }
   ]
 }

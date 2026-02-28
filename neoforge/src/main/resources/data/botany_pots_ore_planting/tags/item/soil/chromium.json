@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "industrialupgrade:baseblockingot/chromium",
+      "required": false
+    }
+  ]
+}

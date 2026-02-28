@@ -11,6 +11,10 @@
     {
       "id": "nuclearcraft:zinc_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot/zinc",
+      "required": false
     }
   ]
 }

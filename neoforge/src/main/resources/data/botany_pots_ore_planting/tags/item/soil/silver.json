@@ -31,6 +31,14 @@
     {
       "id": "pixelmon:silver_block",
       "required": false
+    },
+    {
+      "id": "superbwarfare:silver_block",
+      "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot/silver",
+      "required": false
     }
   ]
 }

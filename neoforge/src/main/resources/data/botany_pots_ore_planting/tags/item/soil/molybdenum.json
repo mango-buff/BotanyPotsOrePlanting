@@ -3,6 +3,10 @@
     {
       "id": "gtceu:molybdenum_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot2/molybdenum",
+      "required": false
     }
   ]
 }

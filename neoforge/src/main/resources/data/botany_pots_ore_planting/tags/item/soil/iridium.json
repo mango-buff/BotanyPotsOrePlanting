@@ -3,6 +3,10 @@
     {
       "id": "alltheores:iridium_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot1/iridium",
+      "required": false
     }
   ]
 }

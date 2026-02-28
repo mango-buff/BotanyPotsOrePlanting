@@ -11,6 +11,10 @@
     {
       "id": "tconstruct:cobalt_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot/cobalt",
+      "required": false
     }
   ]
 }

@@ -3,6 +3,10 @@
     {
       "id": "gtceu:manganese_block",
       "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot1/manganese",
+      "required": false
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "superbwarfare:tungsten_block",
+      "required": false
+    },
+    {
+      "id": "industrialupgrade:baseblockingot/tungsten",
+      "required": false
+    }
+  ]
+}
