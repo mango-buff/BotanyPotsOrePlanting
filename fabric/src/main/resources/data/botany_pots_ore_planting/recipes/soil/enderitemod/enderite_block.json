@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "enderitemod:enderite_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "enderitemod:enderite_block"
+  },
+  "display": {
+    "block": "enderitemod:enderite_block"
+  },
+  "categories": [
+    "enderite"
+  ],
+  "growthModifier": 1
+}

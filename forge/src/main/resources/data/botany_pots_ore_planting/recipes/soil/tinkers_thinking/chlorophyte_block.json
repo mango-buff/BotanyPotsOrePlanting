@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "tinkers_thinking:chlorophyte_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "tinkers_thinking:chlorophyte_block"
+  },
+  "display": {
+    "block": "tinkers_thinking:chlorophyte_block"
+  },
+  "categories": [
+    "chlorophyte"
+  ],
+  "growthModifier": 1
+}

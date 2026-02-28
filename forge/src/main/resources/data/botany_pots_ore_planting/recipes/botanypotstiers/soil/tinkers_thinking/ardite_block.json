@@ -1,0 +1,22 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "botanypotstiers:elite_terracotta_botany_pot",
+       "tinkers_thinking:ardite_block"
+     ]
+    }
+  ],
+  "type": "botanypotstiers:soil",
+  "input": {
+    "item": "tinkers_thinking:ardite_block"
+  },
+  "display": {
+    "block": "tinkers_thinking:ardite_block"
+  },
+  "categories": [
+    "ardite"
+  ],
+  "growthModifier": 1
+}

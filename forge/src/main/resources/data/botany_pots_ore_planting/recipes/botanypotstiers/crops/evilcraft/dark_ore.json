@@ -1,0 +1,32 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "botanypotstiers:elite_terracotta_botany_pot",
+       "evilcraft:dark_ore"
+     ]
+    }
+  ],
+  "type": "botanypotstiers:crop",
+  "seed": {
+    "item": "evilcraft:dark_gem"
+  },
+  "categories": [
+    "dark"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "evilcraft:dark_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "evilcraft:dark_gem"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
