@@ -12,7 +12,7 @@
     "item": "techreborn:bauxite_dust"
   },
   "soil": {
-    "tag": "botany_pots_ore_planting:soil/bauxite"
+    "tag": "botany_pots_ore_planting:soil/aluminum"
   },
   "grow_time": 1200,
   "display": {
