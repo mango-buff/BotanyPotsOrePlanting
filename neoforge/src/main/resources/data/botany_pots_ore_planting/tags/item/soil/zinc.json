@@ -15,6 +15,10 @@
     {
       "id": "industrialupgrade:baseblockingot/zinc",
       "required": false
+    },
+    {
+      "id": "gtceu:zinc_block",
+      "required": false
     }
   ]
 }
