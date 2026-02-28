@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "superbwarfare:scheelite_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "superbwarfare:tungsten_ingot"
+  },
+  "categories": [
+    "scheelite"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "superbwarfare:scheelite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "superbwarfare:scheelite"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

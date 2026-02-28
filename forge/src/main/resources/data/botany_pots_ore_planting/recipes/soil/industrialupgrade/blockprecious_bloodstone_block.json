@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockprecious/bloodstone_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:blockprecious/bloodstone_block"
+  },
+  "display": {
+    "block": "industrialupgrade:blockprecious/bloodstone_block"
+  },
+  "categories": [
+    "bloodstone"
+  ],
+  "growthModifier": 1
+}

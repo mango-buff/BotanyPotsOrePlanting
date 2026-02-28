@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "tinkers_thinking:chlorophyll_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "tinkers_thinking:chlorophyte_ingot"
+  },
+  "categories": [
+    "chlorophyte"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "tinkers_thinking:chlorophyll_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "tinkers_thinking:chlorophyll_a chlorophyll_b"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

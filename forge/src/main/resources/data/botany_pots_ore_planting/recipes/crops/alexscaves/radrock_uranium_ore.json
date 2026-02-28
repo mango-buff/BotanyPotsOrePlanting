@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "alexscaves:radrock_uranium_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alexscaves:uranium"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alexscaves:radrock_uranium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alexscaves:uranium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

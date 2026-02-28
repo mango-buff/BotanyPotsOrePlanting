@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/cobalt"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/cobalt"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/cobalt"
+  },
+  "categories": [
+    "cobalt"
+  ],
+  "growthModifier": 1
+}

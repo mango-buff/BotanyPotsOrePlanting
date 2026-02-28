@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot1/manganese"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot1/manganese"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot1/manganese"
+  },
+  "categories": [
+    "manganese"
+  ],
+  "growthModifier": 1
+}

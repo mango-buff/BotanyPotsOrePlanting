@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot1/germanium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot1/germanium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot1/germanium"
+  },
+  "categories": [
+    "germanium"
+  ],
+  "growthModifier": 1
+}

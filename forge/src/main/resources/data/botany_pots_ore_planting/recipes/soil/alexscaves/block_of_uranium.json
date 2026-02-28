@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "alexscaves:block_of_uranium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alexscaves:block_of_uranium"
+  },
+  "display": {
+    "block": "alexscaves:block_of_uranium"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthModifier": 1
+}

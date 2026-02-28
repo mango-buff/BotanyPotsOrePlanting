@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/chromium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/chromium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/chromium"
+  },
+  "categories": [
+    "chromium"
+  ],
+  "growthModifier": 1
+}

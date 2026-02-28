@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/spinel"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/spinel"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/spinel"
+  },
+  "categories": [
+    "spinel"
+  ],
+  "growthModifier": 1
+}

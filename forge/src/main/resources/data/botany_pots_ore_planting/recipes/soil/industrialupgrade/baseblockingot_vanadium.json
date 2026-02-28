@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/vanadium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/vanadium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/vanadium"
+  },
+  "categories": [
+    "vanadium"
+  ],
+  "growthModifier": 1
+}

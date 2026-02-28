@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "superbwarfare:tungsten_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "superbwarfare:tungsten_block"
+  },
+  "display": {
+    "block": "superbwarfare:tungsten_block"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/titanium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/titanium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/titanium"
+  },
+  "categories": [
+    "titanium"
+  ],
+  "growthModifier": 1
+}

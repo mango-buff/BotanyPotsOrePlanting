@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot1/iridium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot1/iridium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot1/iridium"
+  },
+  "categories": [
+    "iridium"
+  ],
+  "growthModifier": 1
+}
