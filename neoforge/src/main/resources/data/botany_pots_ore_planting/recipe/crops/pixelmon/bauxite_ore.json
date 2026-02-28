@@ -1,18 +1,18 @@
 {
   "bookshelf:load_conditions": [
-    {
-      "type": "bookshelf:item_exists",
-      "values": [
-        "pixelmon:bauxite_ore"
-      ]
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "pixelmon:bauxite_ore"
+     ]
     }
   ],
   "type": "botanypots:crop",
   "input": {
-    "item": "pixelmon:aluminium_ingot"
+    "item": "pixelmon:aluminum_ingot"
   },
   "soil": {
-    "tag": "botany_pots_ore_planting:soil/aluminium"
+    "tag": "botany_pots_ore_planting:soil/aluminum"
   },
   "grow_time": 1200,
   "display": {
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "pixelmon:bauxite_ore"
+            "id": "pixelmon:raw_bauxite"
           },
           "chance": 1.0
         }

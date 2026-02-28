@@ -1,10 +1,6 @@
 {
   "values": [
     {
-      "id": "pixelmon:silver_block",
-      "required": false
-    },
-    {
       "id": "epicsamurai:silver_block",
       "required": false
     },
@@ -30,6 +26,10 @@
     },
     {
       "id": "thermal:silver_block",
+      "required": false
+    },
+    {
+      "id": "pixelmon:silver_block",
       "required": false
     }
   ]

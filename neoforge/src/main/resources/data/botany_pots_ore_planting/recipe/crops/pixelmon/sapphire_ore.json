@@ -1,10 +1,10 @@
 {
   "bookshelf:load_conditions": [
-    {
-      "type": "bookshelf:item_exists",
-      "values": [
-        "pixelmon:sapphire_ore"
-      ]
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "pixelmon:sapphire_ore"
+     ]
     }
   ],
   "type": "botanypots:crop",

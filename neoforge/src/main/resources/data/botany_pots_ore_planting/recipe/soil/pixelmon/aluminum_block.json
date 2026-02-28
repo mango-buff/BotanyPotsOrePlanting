@@ -1,20 +1,20 @@
 {
   "bookshelf:load_conditions": [
-    {
-      "type": "bookshelf:item_exists",
-      "values": [
-        "pixelmon:aluminium_block"
-      ]
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "pixelmon:aluminum_block"
+     ]
     }
   ],
   "type": "botanypots:soil",
   "input": {
-    "item": "pixelmon:aluminium_block"
+    "item": "pixelmon:aluminum_block"
   },
   "display": {
     "type": "botanypots:simple",
     "block_state": {
-      "block": "pixelmon:aluminium_block"
+      "block": "pixelmon:aluminum_block"
     }
   },
   "growth_modifier": 0.0

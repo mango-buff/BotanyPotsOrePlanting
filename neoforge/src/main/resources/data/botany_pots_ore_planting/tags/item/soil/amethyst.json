@@ -1,9 +1,5 @@
 {
   "values": [
-    "minecraft:amethyst_block",
-    {
-      "id": "pixelmon:amethyst_block",
-      "required": false
-    }
+    "minecraft:amethyst_block"
   ]
 }

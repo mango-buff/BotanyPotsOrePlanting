@@ -7,6 +7,10 @@
     {
       "id": "immersiveengineering:storage_aluminum",
       "required": false
+    },
+    {
+      "id": "pixelmon:aluminum_block",
+      "required": false
     }
   ]
 }

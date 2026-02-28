@@ -1,15 +1,15 @@
 {
   "values": [
     {
-      "id": "pixelmon:platinum_block",
-      "required": false
-    },
-    {
       "id": "gtceu:platinum_block",
       "required": false
     },
     {
       "id": "alltheores:platinum_block",
+      "required": false
+    },
+    {
+      "id": "pixelmon:platinum_block",
       "required": false
     }
   ]

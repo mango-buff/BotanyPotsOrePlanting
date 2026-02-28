@@ -1,10 +1,10 @@
 {
   "bookshelf:load_conditions": [
-    {
-      "type": "bookshelf:item_exists",
-      "values": [
-        "pixelmon:silicon_ore"
-      ]
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "pixelmon:silicon_ore"
+     ]
     }
   ],
   "type": "botanypots:crop",
@@ -27,7 +27,7 @@
       "items": [
         {
           "result": {
-            "id": "pixelmon:silicon_ore"
+            "id": "pixelmon:raw_silicon"
           },
           "chance": 1.0
         }
