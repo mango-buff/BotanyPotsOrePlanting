@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "botanypotstiers:elite_botany_pot",
+        "botanypotstiers:elite_terracotta_botany_pot",
         "draconicevolution:overworld_draconium_ore"
       ]
     }
