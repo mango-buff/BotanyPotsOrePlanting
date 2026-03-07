@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "alexscaves:block_of_azure_neodymium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "alexscaves:block_of_azure_neodymium"
+  },
+  "display": {
+    "block": "alexscaves:block_of_azure_neodymium"
+  },
+  "categories": [
+    "azure_neodymium"
+  ],
+  "growthModifier": 1
+}

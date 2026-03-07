@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "alexscaves:azure_neodymium_node"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "alexscaves:azure_neodymium_ingot"
+  },
+  "categories": [
+    "azure_neodymium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "alexscaves:azure_neodymium_node"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "alexscaves:raw_azure_neodymium"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
