@@ -3,26 +3,26 @@
    {
      "type": "bookshelf:item_exists",
      "values": [
-       "superbwarfare:scheelite_ore"
+       "alexscaves:azure_neodymium_node"
      ]
     }
   ],
   "type": "botanypots:crop",
   "seed": {
-    "item": "superbwarfare:tungsten_ingot"
+    "item": "alexscaves:azure_neodymium_ingot"
   },
   "categories": [
-    "tungsten"
+    "azure_neodymium"
   ],
   "growthTicks": 1200,
   "display": {
-    "block": "superbwarfare:scheelite_ore"
+    "block": "alexscaves:azure_neodymium_node"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "superbwarfare:scheelite"
+        "item": "alexscaves:raw_azure_neodymium"
       },
       "minRolls": 2,
       "maxRolls": 3
