@@ -10,7 +10,7 @@ buildscript {
 
 apply plugin: 'net.minecraftforge.gradle'
 
-version = "Forge-${forge_mod_version}+${mc_version}"
+version = "Forge-${forge_mod_version}+1.18.2-1.20.4"
 archivesBaseName = 'BotanyPotsOrePlanting'
 
 minecraft {
