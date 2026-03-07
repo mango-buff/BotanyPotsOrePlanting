@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "superbwarfare:galena_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "superbwarfare:lead_ingot"
+  },
+  "categories": [
+    "galena"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "superbwarfare:galena_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "superbwarfare:galena"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

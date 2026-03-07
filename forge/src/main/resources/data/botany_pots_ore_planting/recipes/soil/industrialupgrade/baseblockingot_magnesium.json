@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/magnesium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/magnesium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/magnesium"
+  },
+  "categories": [
+    "magnesium"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore/cobalt"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:itemingots/cobalt_ingot"
+  },
+  "categories": [
+    "cobalt"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:baseore/cobalt"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:raw_metals/raw_cobalt"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/nickel"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/nickel"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/nickel"
+  },
+  "categories": [
+    "nickel"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "superbwarfare:silver_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "superbwarfare:silver_block"
+  },
+  "display": {
+    "block": "superbwarfare:silver_block"
+  },
+  "categories": [
+    "silver"
+  ],
+  "growthModifier": 1
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot/tungsten"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot/tungsten"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot/tungsten"
+  },
+  "categories": [
+    "tungsten"
+  ],
+  "growthModifier": 1
+}

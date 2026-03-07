@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot2/strontium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot2/strontium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot2/strontium"
+  },
+  "categories": [
+    "strontium"
+  ],
+  "growthModifier": 1
+}

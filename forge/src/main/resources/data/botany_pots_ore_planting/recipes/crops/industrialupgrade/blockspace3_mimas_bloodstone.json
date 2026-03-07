@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockspace3/mimas_bloodstone"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:itemingots/bloodstone"
+  },
+  "categories": [
+    "bloodstone"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:blockspace3/mimas_bloodstone"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:blockspace3/mimas_bloodstone"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

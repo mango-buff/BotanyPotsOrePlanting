@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseblockingot2/neodymium"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "industrialupgrade:baseblockingot2/neodymium"
+  },
+  "display": {
+    "block": "industrialupgrade:baseblockingot2/neodymium"
+  },
+  "categories": [
+    "neodymium"
+  ],
+  "growthModifier": 1
+}

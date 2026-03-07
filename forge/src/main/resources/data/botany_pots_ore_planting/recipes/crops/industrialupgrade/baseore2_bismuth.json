@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:baseore2/bismuth"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:itemingots/bismuth"
+  },
+  "categories": [
+    "bismuth"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:baseore2/bismuth"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:raw_metals/raw_bismuth"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

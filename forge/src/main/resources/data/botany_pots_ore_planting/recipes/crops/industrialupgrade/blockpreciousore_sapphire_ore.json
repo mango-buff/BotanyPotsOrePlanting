@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "industrialupgrade:blockpreciousore/sapphire_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "industrialupgrade:preciousgem/sapphire_gem"
+  },
+  "categories": [
+    "sapphire"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "industrialupgrade:blockpreciousore/sapphire_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "industrialupgrade:preciousgem/sapphire_gem"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}

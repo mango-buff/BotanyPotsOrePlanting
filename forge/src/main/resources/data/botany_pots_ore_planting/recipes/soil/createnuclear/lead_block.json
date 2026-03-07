@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "createnuclear:lead_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "createnuclear:lead_block"
+  },
+  "display": {
+    "block": "createnuclear:lead_block"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthModifier": 1
+}

@@ -16,20 +16,20 @@ This is a mod that can grow ore.
 [[dependencies.botany_pots_ore_planting]]
 modId="minecraft"
 mandatory=true
-versionRange="[1.18.2]"
+versionRange="[1.18.2,1.20.4]"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.botany_pots_ore_planting]]
 modId="botanypots"
 mandatory=true
-versionRange="[8,)"
+versionRange="[8.0.0,17.0.0)"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.botany_pots_ore_planting]]
 modId="bookshelf"
 mandatory=true
-versionRange="[13,)"
+versionRange="[13.0.0,24.0.0)"
 ordering="NONE"
 side="BOTH"

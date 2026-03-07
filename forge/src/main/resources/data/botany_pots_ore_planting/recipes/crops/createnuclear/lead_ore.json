@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "createnuclear:lead_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "createnuclear:lead_ingot"
+  },
+  "categories": [
+    "lead"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "createnuclear:lead_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "createnuclear:raw_lead"
+      },
+      "minRolls": 2,
+      "maxRolls": 3
+    }
+  ]
+}
