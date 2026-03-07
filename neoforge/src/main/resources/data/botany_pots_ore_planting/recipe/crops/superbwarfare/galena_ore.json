@@ -12,7 +12,7 @@
     "item": "superbwarfare:lead_ingot"
   },
   "soil": {
-    "tag": "botany_pots_ore_planting:soil/galena"
+    "tag": "botany_pots_ore_planting:soil/lead"
   },
   "grow_time": 1200,
   "display": {

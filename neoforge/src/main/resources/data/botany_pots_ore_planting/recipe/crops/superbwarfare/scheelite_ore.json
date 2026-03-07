@@ -12,7 +12,7 @@
     "item": "superbwarfare:tungsten_ingot"
   },
   "soil": {
-    "tag": "botany_pots_ore_planting:soil/scheelite"
+    "tag": "botany_pots_ore_planting:soil/tungsten"
   },
   "grow_time": 1200,
   "display": {
