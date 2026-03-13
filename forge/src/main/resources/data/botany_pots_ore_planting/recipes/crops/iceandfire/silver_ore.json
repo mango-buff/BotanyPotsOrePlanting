@@ -22,7 +22,7 @@
     {
       "chance": 1.00,
       "output": {
-        "item": "iceandfire:silver_ore"
+        "item": "iceandfire:raw_silver"
       },
       "minRolls": 2,
       "maxRolls": 3
