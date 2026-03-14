@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "bigreactors:yellorite_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "bigreactors:yellorium_ingot"
+  },
+  "categories": [
+    "yellorium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "bigreactors:yellorite_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "bigreactors:yellorite_ore"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "bigreactors:yellorium_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "bigreactors:yellorium_block"
+  },
+  "display": {
+    "block": "bigreactors:yellorium_block"
+  },
+  "categories": [
+    "yellorium"
+  ],
+  "growthModifier": 1
+}

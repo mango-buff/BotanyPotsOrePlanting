@@ -1,0 +1,31 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "minestuck:stone_uranium_ore"
+     ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minestuck:raw_uranium"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "block": "minestuck:stone_uranium_ore"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "minestuck:raw_uranium"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    }
+  ]
+}

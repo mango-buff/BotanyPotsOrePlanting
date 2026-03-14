@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "minestuck:uranium_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minestuck:uranium_block"
+  },
+  "display": {
+    "block": "minestuck:uranium_block"
+  },
+  "categories": [
+    "uranium"
+  ],
+  "growthModifier": 1
+}

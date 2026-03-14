@@ -1,0 +1,21 @@
+{
+  "bookshelf:load_conditions": [
+   {
+     "type": "bookshelf:item_exists",
+     "values": [
+       "minestuck:cruxite_block"
+     ]
+    }
+  ],
+  "type": "botanypots:soil",
+  "input": {
+    "item": "minestuck:cruxite_block"
+  },
+  "display": {
+    "block": "minestuck:cruxite_block"
+  },
+  "categories": [
+    "cruxite"
+  ],
+  "growthModifier": 1
+}
