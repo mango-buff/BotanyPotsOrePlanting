@@ -24,8 +24,8 @@
       "output": {
         "item": "epicsamurai:aquamarine"
       },
-      "minRolls": 2,
-      "maxRolls": 3
+      "minRolls": 1,
+      "maxRolls": 2
     }
   ]
 }

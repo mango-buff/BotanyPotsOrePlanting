@@ -24,8 +24,8 @@
       "output": {
         "item": "silentgear:raw_crimson_iron"
       },
-      "minRolls": 2,
-      "maxRolls": 3
+      "minRolls": 1,
+      "maxRolls": 2
     }
   ]
 }

@@ -24,8 +24,8 @@
       "output": {
         "item": "industrialupgrade:raw_metals/raw_titanium"
       },
-      "minRolls": 2,
-      "maxRolls": 3
+      "minRolls": 1,
+      "maxRolls": 2
     }
   ]
 }

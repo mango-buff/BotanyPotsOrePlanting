@@ -24,8 +24,8 @@
       "output": {
         "item": "pixelmon:silver_ore"
       },
-      "minRolls": 2,
-      "maxRolls": 3
+      "minRolls": 1,
+      "maxRolls": 2
     }
   ]
 }
