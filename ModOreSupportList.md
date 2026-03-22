@@ -55,7 +55,7 @@
 + **[Tinkers Reforged](https://www.curseforge.com/minecraft/mc-mods/tinkers-reforged)**
 + **[Tinkers' Archery](https://www.curseforge.com/minecraft/mc-mods/tinkers-archery)**
 
-## Minecraft 1.18.2
+## Minecraft 1.18.2 to 1.20.4
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)**
 + **[All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)**
@@ -84,79 +84,20 @@
 + **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
 + **[Tinkers' Thinking](https://www.curseforge.com/minecraft/mc-mods/tinkers-thinking)**
 + **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
-
-## Minecraft 1.19.2
-+ **[Minecraft](https://www.minecraft.net/)**
-+ **[Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)**
-+ **[All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)**
-+ **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)**
-+ **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
-+ **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-+ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)**
-+ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
-+ **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
-+ **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
-+ **[Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)**
-+ **[Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)**
-+ **[Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)**
 + **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
-+ **[Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)**
-+ **[Samurai Dynasty](https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty)**
-+ **[Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)**
-+ **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)**
-+ **[Ulterlands: Worlds Apart](https://www.curseforge.com/minecraft/mc-mods/the-ulterlands)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
 + **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
-+ **[Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)**
 + **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
-+ **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
-+ **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
-+ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
-+ **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
-+ **[Tinkers' Thinking](https://www.curseforge.com/minecraft/mc-mods/tinkers-thinking)**
-+ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
 + **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)**
-
-## Minecraft 1.20.1
-+ **[Minecraft](https://www.minecraft.net/)**
-+ **[Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)**
-+ **[All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)**
-+ **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)**
-+ **[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)**
-+ **[Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)**
-+ **[Botania](https://www.curseforge.com/minecraft/mc-mods/botania)** and **[MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)**
-+ **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
-+ **[Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)**
-+ **[Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)**
-+ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber)**
-+ **[Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)**
-+ **[Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)**
-+ **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
-+ **[Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)**
-+ **[Samurai Dynasty](https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty)**
-+ **[Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)**
-+ **[The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)**
-+ **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
-+ **[More Tetra Materials](https://www.curseforge.com/minecraft/mc-mods/more-tetra-materials)**
-+ **[Mekanism Extras](https://www.curseforge.com/minecraft/mc-mods/mekanism-extras)**
-+ **[NuclearCraft: Neoteric](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-neoteric)**
-+ **[Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)**
 + **[Pixelmon](https://www.curseforge.com/minecraft/mc-mods/pixelmon)**
-+ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
-+ **[EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)**
-+ **[Tinkers' Thinking](https://www.curseforge.com/minecraft/mc-mods/tinkers-thinking)**
-+ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge)**
 + **[Superb Warfare](https://www.curseforge.com/minecraft/mc-mods/superb-warfare)**
 + **[Create Nuclear](https://www.curseforge.com/minecraft/mc-mods/createnuclear)**
 + **[Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)**
-+ **[Industrial Upgrade](https://www.curseforge.com/minecraft/mc-mods/industrial-upgrade)**
++ **[Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)**
++ **[Minestuck](https://www.curseforge.com/minecraft/mc-mods/minestuck)**
 
 # Fabric
-## Minecraft 1.18.2
+## Minecraft 1.18.2 to 1.20.4
 + **[Minecraft](https://www.minecraft.net/)**
 + **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
 + **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)**
@@ -171,39 +112,8 @@
 + **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
 + **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
 + **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
-
-## Minecraft 1.19.2
-+ **[Minecraft](https://www.minecraft.net/)**
-+ **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)**
-+ **[Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)**
-+ **[Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)**
-+ **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
-+ **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)**
-+ **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
 + **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
-+ **[Oh The Biomes You'll Go Refabricated](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric)**
-+ **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
-+ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
-+ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
-
-## Minecraft 1.20.1
-+ **[Minecraft](https://www.minecraft.net/)**
-+ **[Create](https://www.curseforge.com/minecraft/mc-mods/create)**
-+ **[Gobber](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric)**
-+ **[Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)**
-+ **[Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)**
-+ **[Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)**
-+ **[Hephaestus Fabric](https://www.curseforge.com/minecraft/mc-mods/hephaestus-fabric)**
-+ **[Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)**
-+ **[Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)**
 + **[Samurai Dynasty](https://www.curseforge.com/minecraft/mc-mods/epic-samurais-fabric)**
-+ **[GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern)**
-+ **[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)**
-+ **[Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)**
-+ **[Fossils and Archeology: Revival](https://www.curseforge.com/minecraft/mc-mods/fossils)**
-+ **[Enderite Mod](https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric)**
 
 ## Minecraft 1.21.1
 + **[Minecraft](https://www.minecraft.net/)**
